@@ -1,0 +1,2 @@
+from middleware import *
+makeThreading(school='London School of Economics and Political Science',urllist=getUrl(110),xpathDict={'fee':"//*[contains(text(),'Tuition fee')]//following-sibling::*[1]",'programme':'//*[@id="form1"]/header[2]/div/div[2]/h1'})

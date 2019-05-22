@@ -1,0 +1,554 @@
+正在监控id为 au600155 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:1.30%
+正在监控id为 au600166 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:2.70%
+正在监控id为 au600167 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:4.10%
+正在监控id为 au600169 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:5.40%
+正在监控id为 au600170 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:6.80%
+正在监控id为 au600172 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:8.20%
+正在监控id为 au600173 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:9.50%
+正在监控id为 au600174 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:10.90%
+正在监控id为 au600176 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:12.30%
+正在监控id为 au600181 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:13.60%
+正在监控id为 au600185 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:15.00%
+正在监控id为 au600190 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:16.40%
+正在监控id为 au600193 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:17.80%
+正在监控id为 au600194 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:19.10%
+正在监控id为 au600195 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:20.50%
+正在监控id为 au600199 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:21.90%
+正在监控id为 au600200 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:23.20%
+正在监控id为 au600201 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:24.60%
+正在监控id为 au600202 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:26.00%
+正在监控id为 au600203 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:27.30%
+正在监控id为 au600207 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:28.70%
+正在监控id为 au600211 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:30.10%
+正在监控id为 au600212 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:31.50%
+正在监控id为 au600213 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:32.80%
+正在监控id为 au600214 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:34.20%
+正在监控id为 au600215 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:35.60%
+正在监控id为 au600216 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:36.90%
+正在监控id为 ap700704 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:38.30%
+正在监控id为 ap700705 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:39.70%
+正在监控id为 ap700706 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:41.00%
+正在监控id为 ap700707 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:42.40%
+正在监控id为 ap700708 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:43.80%
+正在监控id为 ap700709 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:45.20%
+正在监控id为 ap700710 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:46.50%
+正在监控id为 ap700711 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:47.90%
+正在监控id为 ap700712 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:49.30%
+正在监控id为 ap700713 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:50.60%
+正在监控id为 ap700714 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:52.00%
+正在监控id为 ap700715 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:53.40%
+正在监控id为 ap700716 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:54.70%
+正在监控id为 ap700717 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:56.10%
+正在监控id为 ap700718 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:57.50%
+正在监控id为 ap700719 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:58.90%
+正在监控id为 ap700720 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:60.20%
+正在监控id为 ap700721 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:61.60%
+正在监控id为 ap700722 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:63.00%
+正在监控id为 ap700723 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:64.30%
+正在监控id为 ap700724 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:65.70%
+正在监控id为 ap700725 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:67.10%
+正在监控id为 ap700726 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:68.40%
+正在监控id为 ap700727 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:69.80%
+正在监控id为 ap700728 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:71.20%
+正在监控id为 ap700729 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:72.60%
+正在监控id为 ap700730 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:73.90%
+正在监控id为 ap700731 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:75.30%
+正在监控id为 ap700732 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:76.70%
+正在监控id为 ap700733 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:78.00%
+正在监控id为 ap700734 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:79.40%
+正在监控id为 ap700735 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:80.80%
+正在监控id为 ap700736 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:82.10%
+正在监控id为 ap700737 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:83.50%
+正在监控id为 ap700738 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:84.90%
+正在监控id为 ap700739 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:86.30%
+正在监控id为 ap700740 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:87.60%
+正在监控id为 ap700741 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:89.00%
+正在监控id为 ap700742 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:90.40%
+正在监控id为 ap700743 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:91.70%
+正在监控id为 ap700744 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:93.10%
+正在监控id为 ap700745 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:94.50%
+正在监控id为 ap700746 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:95.80%
+正在监控id为 ap700747 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:97.20%
+正在监控id为 ap700748 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:98.60%
+正在监控id为 ap700749 的专业名、学位类型、课程时长等字段，学校:The Australian National University 进度:100.0%
+正在监控id为 au600649 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:2.00%
+正在监控id为 au600650 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:4.10%
+正在监控id为 au600651 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:6.20%
+正在监控id为 au600652 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:8.30%
+正在监控id为 au600653 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:10.40%
+正在监控id为 au600654 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:12.50%
+正在监控id为 au600655 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:14.50%
+正在监控id为 au600656 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:16.60%
+正在监控id为 au600657 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:18.70%
+正在监控id为 au600658 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:20.80%
+正在监控id为 au600659 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:22.90%
+正在监控id为 au600660 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:25.00%
+正在监控id为 au600661 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:27.00%
+正在监控id为 au600662 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:29.10%
+正在监控id为 au600663 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:31.20%
+正在监控id为 au600664 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:33.30%
+正在监控id为 au600665 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:35.40%
+正在监控id为 au600666 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:37.50%
+正在监控id为 au600667 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:39.50%
+正在监控id为 au600668 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:41.60%
+正在监控id为 au600669 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:43.70%
+正在监控id为 au600670 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:45.80%
+正在监控id为 au600671 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:47.90%
+正在监控id为 ap700758 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:50.00%
+正在监控id为 ap700759 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:52.00%
+正在监控id为 ap700760 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:54.10%
+正在监控id为 ap700761 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:56.20%
+正在监控id为 ap700762 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:58.30%
+正在监控id为 ap700763 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:60.40%
+正在监控id为 ap700764 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:62.50%
+正在监控id为 ap700766 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:64.50%
+正在监控id为 ap700767 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:66.60%
+正在监控id为 ap700768 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:68.70%
+正在监控id为 ap700770 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:70.80%
+正在监控id为 ap700771 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:72.90%
+正在监控id为 ap700772 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:75.00%
+正在监控id为 ap700773 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:77.00%
+正在监控id为 ap700774 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:79.10%
+正在监控id为 ap700775 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:81.20%
+正在监控id为 ap700776 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:83.30%
+正在监控id为 ap700777 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:85.40%
+正在监控id为 ap700778 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:87.50%
+正在监控id为 ap700779 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:89.50%
+正在监控id为 ap700780 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:91.60%
+正在监控id为 ap700781 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:93.70%
+正在监控id为 ap700782 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:95.80%
+正在监控id为 ap700783 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:97.90%
+正在监控id为 ap700784 的专业名、学位类型、课程时长等字段，学校:The University of Melbourne 进度:100.0%
+正在监控id为 au600845 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:0.60%
+正在监控id为 au600846 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:1.30%
+正在监控id为 au600847 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:2.00%
+正在监控id为 au600848 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:2.70%
+正在监控id为 au600849 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:3.40%
+正在监控id为 au600850 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:4.10%
+正在监控id为 au600851 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:4.80%
+正在监控id为 au600852 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:5.50%
+正在监控id为 au600853 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:6.20%
+正在监控id为 au600854 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:6.90%
+正在监控id为 au600855 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:7.60%
+正在监控id为 au600856 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:8.30%
+正在监控id为 au600885 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:9.00%
+正在监控id为 au600886 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:9.70%
+正在监控id为 au600887 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:10.40%
+正在监控id为 au600888 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:11.10%
+正在监控id为 au600889 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:11.80%
+正在监控id为 au600890 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:12.50%
+正在监控id为 au600891 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:13.10%
+正在监控id为 au600892 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:13.80%
+正在监控id为 au600893 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:14.50%
+正在监控id为 au600894 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:15.20%
+正在监控id为 au600910 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:15.90%
+正在监控id为 au600911 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:16.60%
+正在监控id为 au600912 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:17.30%
+正在监控id为 au600913 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:18.00%
+正在监控id为 au600914 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:18.70%
+正在监控id为 au600915 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:19.40%
+正在监控id为 au600916 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:20.10%
+正在监控id为 au600917 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:20.80%
+正在监控id为 au600918 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:21.50%
+正在监控id为 au600921 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:22.20%
+正在监控id为 au600922 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:22.90%
+正在监控id为 au600923 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:23.60%
+正在监控id为 au600924 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:24.30%
+正在监控id为 au600925 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:25.00%
+正在监控id为 au600926 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:25.60%
+正在监控id为 au600927 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:26.30%
+正在监控id为 au600928 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:27.00%
+正在监控id为 au600929 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:27.70%
+正在监控id为 au600931 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:28.40%
+正在监控id为 au600932 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:29.10%
+正在监控id为 au600933 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:29.80%
+正在监控id为 au600934 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:30.50%
+正在监控id为 au600935 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:31.20%
+正在监控id为 au600936 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:31.90%
+正在监控id为 au600937 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:32.60%
+正在监控id为 au600938 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:33.30%
+正在监控id为 au600939 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:34.00%
+正在监控id为 au600940 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:34.70%
+正在监控id为 au600941 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:35.40%
+正在监控id为 au600942 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:36.10%
+正在监控id为 au600943 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:36.80%
+正在监控id为 au600944 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:37.50%
+正在监控id为 au600945 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:38.10%
+正在监控id为 au600946 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:38.80%
+正在监控id为 au600947 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:39.50%
+正在监控id为 au600948 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:40.20%
+正在监控id为 au600949 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:40.90%
+正在监控id为 au600950 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:41.60%
+正在监控id为 au600951 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:42.30%
+正在监控id为 au600952 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:43.00%
+正在监控id为 au600953 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:43.70%
+正在监控id为 au600954 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:44.40%
+正在监控id为 au600955 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:45.10%
+正在监控id为 au600956 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:45.80%
+正在监控id为 au600957 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:46.50%
+正在监控id为 au600958 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:47.20%
+正在监控id为 au600959 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:47.90%
+正在监控id为 au600960 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:48.60%
+正在监控id为 au600961 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:49.30%
+正在监控id为 au600962 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:50.00%
+正在监控id为 au600963 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:50.60%
+正在监控id为 au600964 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:51.30%
+正在监控id为 au600965 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:52.00%
+正在监控id为 au600966 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:52.70%
+正在监控id为 au600967 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:53.40%
+正在监控id为 au600968 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:54.10%
+正在监控id为 au600969 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:54.80%
+正在监控id为 au600971 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:55.50%
+正在监控id为 ap700785 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:56.20%
+正在监控id为 ap700786 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:56.90%
+正在监控id为 ap700787 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:57.60%
+正在监控id为 ap700788 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:58.30%
+正在监控id为 ap700789 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:59.00%
+正在监控id为 ap700790 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:59.70%
+正在监控id为 ap700791 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:60.40%
+正在监控id为 ap700792 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:61.10%
+正在监控id为 ap700793 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:61.80%
+正在监控id为 ap700794 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:62.50%
+正在监控id为 ap700795 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:63.10%
+正在监控id为 ap700796 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:63.80%
+正在监控id为 ap700797 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:64.50%
+正在监控id为 ap700798 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:65.20%
+正在监控id为 ap700799 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:65.90%
+正在监控id为 ap700800 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:66.60%
+正在监控id为 ap700801 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:67.30%
+正在监控id为 ap700802 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:68.00%
+正在监控id为 ap700803 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:68.70%
+正在监控id为 ap700804 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:69.40%
+正在监控id为 ap700805 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:70.10%
+正在监控id为 ap700806 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:70.80%
+正在监控id为 ap700807 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:71.50%
+正在监控id为 ap700808 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:72.20%
+正在监控id为 ap700809 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:72.90%
+正在监控id为 ap700810 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:73.60%
+正在监控id为 ap700811 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:74.30%
+正在监控id为 ap700812 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:75.00%
+正在监控id为 ap700813 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:75.60%
+正在监控id为 ap700814 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:76.30%
+正在监控id为 ap700815 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:77.00%
+正在监控id为 ap700816 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:77.70%
+正在监控id为 ap700817 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:78.40%
+正在监控id为 ap700818 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:79.10%
+正在监控id为 ap700819 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:79.80%
+正在监控id为 ap700820 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:80.50%
+正在监控id为 ap700821 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:81.20%
+正在监控id为 ap700822 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:81.90%
+正在监控id为 ap700823 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:82.60%
+正在监控id为 ap700824 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:83.30%
+正在监控id为 ap700825 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:84.00%
+正在监控id为 ap700826 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:84.70%
+正在监控id为 ap700827 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:85.40%
+正在监控id为 ap700828 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:86.10%
+正在监控id为 ap700829 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:86.80%
+正在监控id为 ap700830 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:87.50%
+正在监控id为 ap700831 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:88.10%
+正在监控id为 ap700832 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:88.80%
+正在监控id为 ap700833 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:89.50%
+正在监控id为 ap700834 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:90.20%
+正在监控id为 ap700835 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:90.90%
+正在监控id为 ap700836 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:91.60%
+正在监控id为 ap700837 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:92.30%
+正在监控id为 ap700838 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:93.00%
+正在监控id为 ap700839 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:93.70%
+正在监控id为 ap700840 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:94.40%
+正在监控id为 ap700841 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:95.10%
+正在监控id为 ap700842 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:95.80%
+正在监控id为 ap700843 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:96.50%
+正在监控id为 ap700844 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:97.20%
+正在监控id为 ap700845 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:97.90%
+正在监控id为 ap700846 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:98.60%
+正在监控id为 ap700847 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:99.30%
+正在监控id为 ap700848 的专业名、学位类型、课程时长等字段，学校:The University of New South Wales 进度:100.0%
+正在监控id为 ap700849 的专业名、学位类型、课程时长等字段，学校:The University of Queensland 进度:4.70%
+正在监控id为 ap700850 的专业名、学位类型、课程时长等字段，学校:The University of Queensland 进度:9.50%
+正在监控id为 ap700851 的专业名、学位类型、课程时长等字段，学校:The University of Queensland 进度:14.20%
+正在监控id为 ap700852 的专业名、学位类型、课程时长等字段，学校:The University of Queensland 进度:19.00%
+正在监控id为 ap700853 的专业名、学位类型、课程时长等字段，学校:The University of Queensland 进度:23.80%
+正在监控id为 ap700854 的专业名、学位类型、课程时长等字段，学校:The University of Queensland 进度:28.50%
+正在监控id为 ap700855 的专业名、学位类型、课程时长等字段，学校:The University of Queensland 进度:33.30%
+正在监控id为 ap700856 的专业名、学位类型、课程时长等字段，学校:The University of Queensland 进度:38.00%
+正在监控id为 ap700857 的专业名、学位类型、课程时长等字段，学校:The University of Queensland 进度:42.80%
+正在监控id为 ap700858 的专业名、学位类型、课程时长等字段，学校:The University of Queensland 进度:47.60%
+正在监控id为 ap700859 的专业名、学位类型、课程时长等字段，学校:The University of Queensland 进度:52.30%
+正在监控id为 ap700860 的专业名、学位类型、课程时长等字段，学校:The University of Queensland 进度:57.10%
+正在监控id为 ap700861 的专业名、学位类型、课程时长等字段，学校:The University of Queensland 进度:61.90%
+正在监控id为 ap700862 的专业名、学位类型、课程时长等字段，学校:The University of Queensland 进度:66.60%
+正在监控id为 ap700863 的专业名、学位类型、课程时长等字段，学校:The University of Queensland 进度:71.40%
+正在监控id为 ap700864 的专业名、学位类型、课程时长等字段，学校:The University of Queensland 进度:76.10%
+正在监控id为 ap700865 的专业名、学位类型、课程时长等字段，学校:The University of Queensland 进度:80.90%
+正在监控id为 ap700866 的专业名、学位类型、课程时长等字段，学校:The University of Queensland 进度:85.70%
+正在监控id为 ap700867 的专业名、学位类型、课程时长等字段，学校:The University of Queensland 进度:90.40%
+正在监控id为 ap700868 的专业名、学位类型、课程时长等字段，学校:The University of Queensland 进度:95.20%
+正在监控id为 ap700869 的专业名、学位类型、课程时长等字段，学校:The University of Queensland 进度:100.0%
+正在监控id为 au54065 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:0.40%
+正在监控id为 au54066 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:0.90%
+正在监控id为 au54067 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:1.40%
+正在监控id为 au54068 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:1.90%
+正在监控id为 au54069 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:2.40%
+正在监控id为 au54070 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:2.90%
+正在监控id为 au54071 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:3.40%
+正在监控id为 au54072 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:3.90%
+正在监控id为 au54073 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:4.40%
+正在监控id为 au54074 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:4.90%
+正在监控id为 au54075 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:5.40%
+正在监控id为 au54076 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:5.90%
+正在监控id为 au54077 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:6.40%
+正在监控id为 au54078 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:6.90%
+正在监控id为 au54079 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:7.40%
+正在监控id为 au54080 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:7.90%
+正在监控id为 au54081 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:8.40%
+正在监控id为 au54082 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:8.90%
+正在监控id为 au54083 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:9.40%
+正在监控id为 au54084 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:9.90%
+正在监控id为 au54085 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:10.40%
+正在监控id为 au54086 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:10.90%
+正在监控id为 au54087 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:11.40%
+正在监控id为 au54088 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:11.90%
+正在监控id为 au54089 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:12.40%
+正在监控id为 au54090 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:12.90%
+正在监控id为 au54091 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:13.40%
+正在监控id为 au54092 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:13.90%
+正在监控id为 au54093 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:14.40%
+正在监控id为 au54094 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:14.90%
+正在监控id为 au54095 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:15.40%
+正在监控id为 au54096 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:15.90%
+正在监控id为 au54097 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:16.40%
+正在监控id为 au54098 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:16.90%
+正在监控id为 au54099 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:17.40%
+正在监控id为 au54100 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:17.90%
+正在监控id为 au54101 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:18.40%
+正在监控id为 au54102 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:18.90%
+正在监控id为 au54103 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:19.40%
+正在监控id为 au54104 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:19.90%
+正在监控id为 au54105 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:20.30%
+正在监控id为 au54106 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:20.80%
+正在监控id为 au54107 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:21.30%
+正在监控id为 au54108 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:21.80%
+正在监控id为 au54109 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:22.30%
+正在监控id为 au54110 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:22.80%
+正在监控id为 au54111 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:23.30%
+正在监控id为 au54112 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:23.80%
+正在监控id为 au54113 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:24.30%
+正在监控id为 au54114 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:24.80%
+正在监控id为 au54115 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:25.30%
+正在监控id为 au54116 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:25.80%
+正在监控id为 au54117 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:26.30%
+正在监控id为 au54118 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:26.80%
+正在监控id为 au54119 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:27.30%
+正在监控id为 au54120 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:27.80%
+正在监控id为 au54121 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:28.30%
+正在监控id为 au54122 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:28.80%
+正在监控id为 au54123 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:29.30%
+正在监控id为 au54124 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:29.80%
+正在监控id为 au54125 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:30.30%
+正在监控id为 au54126 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:30.80%
+正在监控id为 au54127 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:31.30%
+正在监控id为 au54128 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:31.80%
+正在监控id为 au54129 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:32.30%
+正在监控id为 au54130 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:32.80%
+正在监控id为 au54131 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:33.30%
+正在监控id为 au54132 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:33.80%
+正在监控id为 au54133 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:34.30%
+正在监控id为 au54134 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:34.80%
+正在监控id为 au54135 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:35.30%
+正在监控id为 au54136 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:35.80%
+正在监控id为 au54137 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:36.30%
+正在监控id为 au54138 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:36.80%
+正在监控id为 au54139 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:37.30%
+正在监控id为 au54140 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:37.80%
+正在监控id为 au54141 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:38.30%
+正在监控id为 au54142 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:38.80%
+正在监控id为 au54143 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:39.30%
+正在监控id为 au54144 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:39.80%
+正在监控id为 au54145 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:40.20%
+正在监控id为 au54146 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:40.70%
+正在监控id为 au54147 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:41.20%
+正在监控id为 au54148 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:41.70%
+正在监控id为 au54149 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:42.20%
+正在监控id为 au54150 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:42.70%
+正在监控id为 au54151 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:43.20%
+正在监控id为 au54152 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:43.70%
+正在监控id为 au54153 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:44.20%
+正在监控id为 au54154 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:44.70%
+正在监控id为 au54155 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:45.20%
+正在监控id为 au54156 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:45.70%
+正在监控id为 au54157 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:46.20%
+正在监控id为 au54158 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:46.70%
+正在监控id为 au54159 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:47.20%
+正在监控id为 au54160 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:47.70%
+正在监控id为 au54161 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:48.20%
+正在监控id为 au54162 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:48.70%
+正在监控id为 au54163 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:49.20%
+正在监控id为 au54164 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:49.70%
+正在监控id为 au54165 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:50.20%
+正在监控id为 au54166 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:50.70%
+正在监控id为 au54167 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:51.20%
+正在监控id为 au54168 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:51.70%
+正在监控id为 au54169 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:52.20%
+正在监控id为 au54170 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:52.70%
+正在监控id为 au54171 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:53.20%
+正在监控id为 au54172 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:53.70%
+正在监控id为 au54173 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:54.20%
+正在监控id为 au54174 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:54.70%
+正在监控id为 au54175 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:55.20%
+正在监控id为 au600714 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:55.70%
+正在监控id为 au600715 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:56.20%
+正在监控id为 au600716 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:56.70%
+正在监控id为 au600717 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:57.20%
+正在监控id为 au600718 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:57.70%
+正在监控id为 au600719 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:58.20%
+正在监控id为 au600720 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:58.70%
+正在监控id为 au600721 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:59.20%
+正在监控id为 ap700871 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:59.70%
+正在监控id为 ap700872 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:60.10%
+正在监控id为 ap700873 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:60.60%
+正在监控id为 ap700874 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:61.10%
+正在监控id为 ap700875 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:61.60%
+正在监控id为 ap700876 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:62.10%
+正在监控id为 ap700877 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:62.60%
+正在监控id为 ap700878 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:63.10%
+正在监控id为 ap700879 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:63.60%
+正在监控id为 ap700880 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:64.10%
+正在监控id为 ap700881 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:64.60%
+正在监控id为 ap700882 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:65.10%
+正在监控id为 ap700883 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:65.60%
+正在监控id为 ap700884 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:66.10%
+正在监控id为 ap700885 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:66.60%
+正在监控id为 ap700886 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:67.10%
+正在监控id为 ap700887 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:67.60%
+正在监控id为 ap700888 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:68.10%
+正在监控id为 ap700889 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:68.60%
+正在监控id为 ap700890 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:69.10%
+正在监控id为 ap700891 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:69.60%
+正在监控id为 ap700892 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:70.10%
+正在监控id为 ap700893 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:70.60%
+正在监控id为 ap700894 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:71.10%
+正在监控id为 ap700895 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:71.60%
+正在监控id为 ap700896 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:72.10%
+正在监控id为 ap700897 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:72.60%
+正在监控id为 ap700898 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:73.10%
+正在监控id为 ap700899 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:73.60%
+正在监控id为 ap700900 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:74.10%
+正在监控id为 ap700901 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:74.60%
+正在监控id为 ap700902 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:75.10%
+正在监控id为 ap700903 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:75.60%
+正在监控id为 ap700904 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:76.10%
+正在监控id为 ap700905 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:76.60%
+正在监控id为 ap700906 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:77.10%
+正在监控id为 ap700907 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:77.60%
+正在监控id为 ap700908 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:78.10%
+正在监控id为 ap700909 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:78.60%
+正在监控id为 ap700910 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:79.10%
+正在监控id为 ap700911 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:79.60%
+正在监控id为 ap700912 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:80.00%
+正在监控id为 ap700913 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:80.50%
+正在监控id为 ap700914 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:81.00%
+正在监控id为 ap700915 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:81.50%
+正在监控id为 ap700916 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:82.00%
+正在监控id为 ap700917 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:82.50%
+正在监控id为 ap700918 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:83.00%
+正在监控id为 ap700919 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:83.50%
+正在监控id为 ap700920 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:84.00%
+正在监控id为 ap700921 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:84.50%
+正在监控id为 ap700922 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:85.00%
+正在监控id为 ap700923 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:85.50%
+正在监控id为 ap700924 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:86.00%
+正在监控id为 ap700925 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:86.50%
+正在监控id为 ap700926 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:87.00%
+正在监控id为 ap700927 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:87.50%
+正在监控id为 ap700928 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:88.00%
+正在监控id为 ap700929 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:88.50%
+正在监控id为 ap700930 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:89.00%
+正在监控id为 ap700931 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:89.50%
+正在监控id为 ap700932 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:90.00%
+正在监控id为 ap700933 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:90.50%
+正在监控id为 ap700934 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:91.00%
+正在监控id为 ap700935 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:91.50%
+正在监控id为 ap700936 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:92.00%
+正在监控id为 ap700937 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:92.50%
+正在监控id为 ap700938 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:93.00%
+正在监控id为 ap700939 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:93.50%
+正在监控id为 ap700940 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:94.00%
+正在监控id为 ap700941 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:94.50%
+正在监控id为 ap700942 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:95.00%
+正在监控id为 ap700943 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:95.50%
+正在监控id为 ap700944 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:96.00%
+正在监控id为 ap700945 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:96.50%
+正在监控id为 ap700946 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:97.00%
+正在监控id为 ap700947 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:97.50%
+正在监控id为 ap700948 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:98.00%
+正在监控id为 ap700949 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:98.50%
+正在监控id为 ap700950 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:99.00%
+正在监控id为 ap700951 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:99.50%
+正在监控id为 ap701068 的专业名、学位类型、课程时长等字段，学校:The University of Sydney 进度:100.0%
+正在监控id为 au600828 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:1.50%
+正在监控id为 au600829 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:3.10%
+正在监控id为 au600830 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:4.60%
+正在监控id为 au600831 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:6.20%
+正在监控id为 au600832 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:7.80%
+正在监控id为 au600833 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:9.30%
+正在监控id为 au600834 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:10.90%
+正在监控id为 au600835 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:12.50%
+正在监控id为 au600836 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:14.00%
+正在监控id为 au600837 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:15.60%
+正在监控id为 au600838 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:17.10%
+正在监控id为 au600839 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:18.70%
+正在监控id为 au600840 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:20.30%
+正在监控id为 au600841 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:21.80%
+正在监控id为 au600842 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:23.40%
+正在监控id为 au600843 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:25.00%
+正在监控id为 au600844 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:26.50%
+正在监控id为 ap700637 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:28.10%
+正在监控id为 ap700638 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:29.60%
+正在监控id为 ap700639 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:31.20%
+正在监控id为 ap700640 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:32.80%
+正在监控id为 ap700641 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:34.30%
+正在监控id为 ap700642 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:35.90%
+正在监控id为 ap700643 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:37.50%
+正在监控id为 ap700644 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:39.00%
+正在监控id为 ap700645 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:40.60%
+正在监控id为 ap700646 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:42.10%
+正在监控id为 ap700647 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:43.70%
+正在监控id为 ap700648 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:45.30%
+正在监控id为 ap700649 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:46.80%
+正在监控id为 ap700650 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:48.40%
+正在监控id为 ap700651 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:50.00%
+正在监控id为 ap700652 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:51.50%
+正在监控id为 ap700653 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:53.10%
+正在监控id为 ap700654 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:54.60%
+正在监控id为 ap700655 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:56.20%
+正在监控id为 ap700656 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:57.80%
+正在监控id为 ap700657 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:59.30%
+正在监控id为 ap700658 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:60.90%
+正在监控id为 ap700659 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:62.50%
+正在监控id为 ap700660 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:64.00%
+正在监控id为 ap700661 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:65.60%
+正在监控id为 ap700662 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:67.10%
+正在监控id为 ap700663 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:68.70%
+正在监控id为 ap700664 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:70.30%
+正在监控id为 ap700665 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:71.80%
+正在监控id为 ap700666 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:73.40%
+正在监控id为 ap700667 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:75.00%
+正在监控id为 ap700668 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:76.50%
+正在监控id为 ap700669 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:78.10%
+正在监控id为 ap700670 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:79.60%
+正在监控id为 ap700671 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:81.20%
+正在监控id为 ap700672 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:82.80%
+正在监控id为 ap700673 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:84.30%
+正在监控id为 ap700674 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:85.90%
+正在监控id为 ap700675 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:87.50%
+正在监控id为 ap700676 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:89.00%
+正在监控id为 ap700677 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:90.60%
+正在监控id为 ap700678 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:92.10%
+正在监控id为 ap700679 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:93.70%
+正在监控id为 ap700680 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:95.30%
+正在监控id为 ap700681 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:96.80%
+正在监控id为 ap700682 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:98.40%
+正在监控id为 ap700683 的专业名、学位类型、课程时长等字段，学校:Monash University 进度:100.0%
+正在监控id为 au600121 的专业名、学位类型、课程时长等字段，学校:The University of Western Australia 进度:2.60%
+正在监控id为 au600122 的专业名、学位类型、课程时长等字段，学校:The University of Western Australia 进度:5.20%
+正在监控id为 au600123 的专业名、学位类型、课程时长等字段，学校:The University of Western Australia 进度:7.80%

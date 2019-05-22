@@ -1,0 +1,2 @@
+from middleware import *
+makeThreading(school='Robert Gordon University',urllist=getUrl(181),xpathDict={'programme':'//*[@id="flexicontent"]/article//h1','fee':"//*[contains(text(),'International Students')]/../following-sibling::*|//*[contains(text(),'International Students')]//following-sibling::*|//*[contains(text(),'Students')]//following-sibling::*"})

@@ -1,0 +1,2 @@
+from middleware import *
+makeThreading(school='University of Brighton',urllist=getUrl(211),xpathDict={'fee':"//*[contains(text(),'International')]//following-sibling::*",'programme':'//*[@id="page-heading"]/h1'})

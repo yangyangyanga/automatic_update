@@ -1,0 +1,190 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="vie'wport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/echarts/4.1.0/echarts.min.js"></script>
+    <title>数据展示结果</title>
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            list-style: none;
+        }
+        table {
+            border-collapse:collapse;
+            margin: 50px auto;
+        }
+        table,th, td{
+            border: 1px solid #ccc;
+        }
+        th{
+            height:70px;
+            background: #eee;
+            font-size: 16px;
+        }
+        td{
+            height:60px;
+            text-align: center;
+            font-size: 12px;
+        }
+        select, select option{
+            height: 60px;
+            border: none;
+            width: 80%;
+            outline: none;
+            font-size: 18px;
+        }
+        ul{
+			{#height: 500px;#}
+			{#width: 800px;#}
+			margin: auto 200px;
+		}
+        li{
+            width: auto;
+            height: 30px;
+            text-align: center;
+            line-height: 30px;
+            float: left;
+            {#border: #cccccc 1px solid;#}
+            margin-left: 30px;
+            color: red;
+        }
+        li a{
+            display: block;
+            {#width: 30px;#}
+            height: 30px;
+            text-decoration: none;
+            font-style: oblique;
+            color: blue;
+        }
+        li a:hover{
+            background: #dedede;
+        }
+        .gotoresult{
+            font-style: normal;
+            color: #dedddb;
+        }
+        .gotoresult a{
+            display: block;
+            width: 200px;
+            height: 30px;
+            background: #dedddb;
+            color: red;
+        }
+        .gotoresult a:hover{
+            background: #c7c6c4;
+        }
+        .statecode{
+            width: auto;
+            height: 500px;
+            text-align: center;
+            float: left;
+            {#border: #cccccc 1px solid;#}
+            margin: 30px auto auto 300px;
+        }
+        .statecode li{
+            color: black;
+        }
+        .statecode li span{
+            font-weight: bold;
+            {#font-size: 20px;#}
+        }
+    </style>
+</head>
+<body>
+<h1 align="center" style="margin: 30px 0 0 0">{{ country }}数据展示</h1>
+<table class="layui-table">
+    <colgroup>
+        <col width="150">
+        <col width="150">
+        <col width="200">
+        <col>
+    </colgroup>
+    <thead>
+    <tr>
+        <th>id</th>
+        <th>old_id(原数据库id)</th>
+        <th>university(学校名)</th>
+        <th>major_name(专业名)</th>
+        <th>degree_name(学位名称)</th>
+        <th>tuition_fee(学费)</th>
+        <th>duration(课程长度)</th>
+        <th>state code(状态码)</th>
+        <th>url now(新链接)</th>
+        <th>url old(旧链接)</th>
+        <th>update time(更新时间)</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for monitor in monitor_copy1 %}
+    <tr>
+        <td>{{ monitor.id }}</td>
+        <td>{{ monitor.old_id }}</td>
+        <td>{{ monitor.university }}</td>
+        <td>{{ monitor.major_name }}</td>
+        <td>{{ monitor.degree_name }}</td>
+        <td>{{ monitor.tuition_fee }}</td>
+        <td>{{ monitor.duration }}</td>
+        <td>{{ monitor.state_code }}</td>
+        <td><a href="{{ monitor.url_now }}" target="_blank">{{ monitor.url_now }}</a></td>
+        <td><a href="{{ monitor.url_old }}" target="_blank">{{ monitor.url_old }}</a></td>
+        <td>{{ monitor.update_time }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+<ul>
+    {% if monitor_copy1.has_previous %}
+        <li>
+        <a href="/showtable/{{ country }}/{{ monitor_copy1.previous_page_number }}">&laquo;上一页</a>
+        </li>
+    {% else %}
+        <li>
+        &laquo;上一页
+        </li>
+    {% endif %}
+    {% for index in monitor_copy1.paginator.page_range %}
+
+        {% if index == monitor_copy1.number %}
+            <li class="active">
+            {{ index }}/{{ monitor_copy1.paginator.num_pages }}
+            </li>
+{#        {% else %}#}
+{#            <li>#}
+{#                <a href="/showtable/{{ index }}">{{ index }}</a>#}
+{#            </li>#}
+        {% endif %}
+    {% endfor %}
+    {% if monitor_copy1.has_next %}
+        <li>
+            <a href="/showtable/{{ country }}/{{ monitor_copy1.next_page_number}}">下一页&raquo;</a>
+        </li>
+        {% else %}
+        <li>
+        下一页&raquo;
+        </li>
+    {% endif %}
+{#    <li class="gotopage">#}
+{#        <span>跳转到第</span>#}
+{#            <input width="30px" height="30px"/>#}
+{#        <span>页</span>#}
+{#        <a id="tiaozhuang" href="#">跳转</a>#}
+{#    </li>#}
+    <li class="gotoresult" style="margin-left: 200px">
+        <a target="_blank" href="{% url 'oneApp:show_result' country 'ug' %}">查看本科监控结果</a>
+    </li>
+    <li class="gotoresult">
+        <a target="_blank" href="/showResult/{{ country }}/pg/">查看研究生监控结果</a>
+    </li>
+</ul>
+<ul class="statecode">
+    <li><span>注释</span></li>
+    <li>404: 页面链接失效</li>
+    <li>403: 页面禁止访问</li>
+    <li>200: 页面结构变化</li>
+    <li>200: 页面内容变化</li>
+</ul>
+</body>
+</html>

@@ -1,0 +1,2 @@
+from middleware import *
+makeThreading(school='Bournemouth University',urllist=getUrl(178),xpathDict={'programme':'/html/body/div/section//h1','fee':'//*[@id="fees-box"]/div/div/span|//*[@id="fees-box"]/div[2]/div[2]/p[2]|//*[@id="fees-box"]/div/div[2]/ul/li[1]'})

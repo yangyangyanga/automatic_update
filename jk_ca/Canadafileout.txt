@@ -1,0 +1,87 @@
+正在监控id为 cu22640 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:2.70%
+正在监控id为 cu22641 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:5.40%
+正在监控id为 cu22642 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:8.10%
+正在监控id为 cu22643 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:10.80%
+正在监控id为 cu22644 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:13.50%
+正在监控id为 cu22645 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:16.20%
+正在监控id为 cu22646 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:18.90%
+正在监控id为 cu22647 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:21.60%
+正在监控id为 cu22650 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:24.30%
+正在监控id为 cu22653 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:27.00%
+正在监控id为 cu22654 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:29.70%
+正在监控id为 cu22655 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:32.40%
+正在监控id为 cu22656 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:35.10%
+正在监控id为 cu22660 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:37.80%
+正在监控id为 cu22661 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:40.50%
+正在监控id为 cu22662 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:43.20%
+正在监控id为 cu22663 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:45.90%
+正在监控id为 cu22664 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:48.60%
+正在监控id为 cu22665 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:51.30%
+正在监控id为 cu22666 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:54.00%
+正在监控id为 cu22667 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:56.70%
+正在监控id为 cu22668 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:59.40%
+正在监控id为 cu22669 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:62.10%
+正在监控id为 cu22670 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:64.80%
+正在监控id为 cu22671 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:67.50%
+正在监控id为 cu22640 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:2.70%
+正在监控id为 cu22641 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:5.40%
+正在监控id为 cu22642 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:8.10%
+正在监控id为 cu22643 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:10.80%
+正在监控id为 cu22644 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:13.50%
+正在监控id为 cu22645 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:16.20%
+正在监控id为 cu22646 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:18.90%
+正在监控id为 cu22647 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:21.60%
+正在监控id为 cu22650 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:24.30%
+正在监控id为 cu22653 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:27.00%
+正在监控id为 cu22654 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:29.70%
+正在监控id为 cu22655 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:32.40%
+正在监控id为 cu22656 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:35.10%
+正在监控id为 cu22660 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:37.80%
+正在监控id为 cu22661 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:40.50%
+正在监控id为 cu22662 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:43.20%
+正在监控id为 cu22663 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:45.90%
+正在监控id为 cu22664 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:48.60%
+正在监控id为 cu22665 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:51.30%
+正在监控id为 cu22666 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:54.00%
+正在监控id为 cu22667 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:56.70%
+正在监控id为 cu22668 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:59.40%
+正在监控id为 cu22669 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:62.10%
+正在监控id为 cu22670 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:64.80%
+正在监控id为 cu22671 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:67.50%
+正在监控id为 cu22672 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:70.20%
+正在监控id为 cu22673 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:72.90%
+正在监控id为 cu22674 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:75.60%
+正在监控id为 cu22675 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:78.30%
+正在监控id为 cu22676 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:81.00%
+正在监控id为 cu22677 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:83.70%
+正在监控id为 cu22678 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:86.40%
+正在监控id为 cu22679 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:89.10%
+正在监控id为 cu22680 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:91.80%
+正在监控id为 cu22681 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:94.50%
+正在监控id为 cu1121812 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:97.20%
+正在监控id为 cu1121813 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:100.0%
+正在监控id为 cu1121013 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:0.70%
+正在监控id为 cu1121014 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:1.40%
+正在监控id为 cu1121015 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:2.20%
+正在监控id为 cu1121016 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:2.90%
+正在监控id为 cu1121017 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:3.60%
+正在监控id为 cu1121018 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:4.40%
+正在监控id为 cu1121019 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:5.10%
+正在监控id为 cu1121020 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:5.80%
+正在监控id为 cu1121021 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:6.60%
+正在监控id为 cu1121022 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:7.30%
+正在监控id为 cu1121023 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:8.00%
+正在监控id为 cu1121024 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:8.80%
+正在监控id为 cu1121025 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:9.50%
+正在监控id为 cu1121026 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:10.20%
+正在监控id为 cu1121027 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:11.00%
+正在监控id为 cu1121029 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:11.70%
+正在监控id为 cu1121030 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:12.50%
+正在监控id为 cu1121031 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:13.20%
+正在监控id为 cu1121032 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:13.90%
+正在监控id为 cu1121033 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:14.70%
+正在监控id为 cu1121034 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:15.40%
+正在监控id为 cu1121035 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:16.10%
+正在监控id为 cu1121036 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:16.90%
+正在监控id为 cu1121037 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:17.60%
+正在监控id为 cu1121038 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:18.30%

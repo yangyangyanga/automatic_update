@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="vie'wport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/echarts/4.1.0/echarts.min.js"></script>
+    <title>统计表</title>
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            list-style: none;
+        }
+        table {
+            border-collapse:collapse;
+            margin: 50px auto;
+        }
+        table,th, td{
+            border: 1px solid #ccc;
+        }
+        th{
+            height:70px;
+            background: #eee;
+            font-size: 22px;
+        }
+        td{
+            height:60px;
+            text-align: center;
+            font-size: 18px;
+        }
+        select, select option{
+            height: 60px;
+            border: none;
+            width: 80%;
+            outline: none;
+            font-size: 18px;
+        }
+        #charts{
+			height: 500px;
+			width: 800px;
+			margin: auto;
+		}
+
+    </style>
+</head>
+<body>
+<h1 align="center" style="margin: 30px 0 0 0">{{ country }}{{ up }}监控结果</h1>
+   <table>
+        <tr>
+            <th width="200">类型</th>
+            <th width="180">数量</th>
+            <th width="400">学校</th>
+        </tr>
+        <tr>
+            <td>页面链接失效(404)</td>
+            <td id="num1"></td>
+            <td>
+                <select name="" id="select_id1"></select>
+            </td>
+        </tr>
+        <tr>
+            <td>页面禁止访问(403)</td>
+            <td id="num2"></td>
+            <td>
+                <select name="" id="select_id2"></select>
+            </td>
+        </tr>
+        <tr>
+            <td>页面结构变化(200)</td>
+            <td id="num3"></td>
+            <td>
+                <select name="" id="select_id3"></select>
+            </td>
+        </tr>
+        <tr>
+            <td>页面内容变化(200)</td>
+            <td id="num4"></td>
+            <td>
+                <select name="" id="select_id4"></select>
+            </td>
+        </tr>
+   </table>
+<div id="charts">
+
+   </div>
+
+<script>
+        console.log("{{ undergraduate }},本科字典====");
+        // 判断是本科还是研究生
+        {% ifequal up "本科" %}
+            //var arr1 = ['学校一','学校2','学校3'];    // 页面链接失效404
+            var arr1 = new Array();
+            {% for a1 in undergraduate.data404university %}
+                {#console.log(a1, "---a1");#}
+                arr1.push("{{ a1 }}");
+            {% endfor %}
+            console.log(arr1, "---arr1");
+
+            //var arr2 = ['学校11','学校22','学校33','学校3sds3'];   // 页面禁止访问403
+            var arr2 = new Array();
+            {% for a2 in undergraduate.data403university %}
+                arr2.push("{{ a2 }}");
+            {% endfor %}
+
+            //var arr3 = ['学校111','学校222','学校333','学校44444'];  // 页面结构变化200
+            var arr3 = new Array();
+            {% for a3 in undergraduate.dataStructure200university %}
+                arr3.push("{{ a3 }}");
+            {% endfor %}
+
+            //var arr4 = new Array('[{{ dataContent200university }}]');  // 页面内容变化200
+            var arr4 = new Array();
+            {% for a4 in undergraduate.dataContent200university %}
+                arr4.push("{{ a4 }}");
+            {% endfor %}
+            //console.log(arr4,"==***==");
+
+    {#        var t = tmp + 'data404number';#}
+    {#        console.log(t, "**1**", 'audata404number');#}
+            var num1 = {{ undergraduate.data404number }};  // 页面链接失效数量
+            var num1Con = document.getElementById('num1'); num1Con.innerText = num1;
+
+            {#var t2 = tmp + 'data403number';#}
+            var num2 = {{ undergraduate.data403number }};  // 页面禁止访问数量
+            var num2Con = document.getElementById('num2'); num2Con.innerText = num2;
+
+            {#var t3 = tmp + 'dataStructure200number';#}
+            var num3 = {{ undergraduate.dataStructure200number }};  // 页面结构变化数量
+            var num3Con = document.getElementById('num3'); num3Con.innerText = num3;
+
+            {#var t4 = tmp + 'dataContent200number';#}
+            var num4 = {{ undergraduate.dataContent200number }};  // 页面内容变化数量
+            var num4Con = document.getElementById('num4'); num4Con.innerText = num4;
+            var objSelectet1 = document.getElementById('select_id1');
+            var objSelectet2 = document.getElementById('select_id2');
+            var objSelectet3 = document.getElementById('select_id3');
+            var objSelectet4 = document.getElementById('select_id4');
+
+        {% endifequal %}
+
+        {% ifequal up "研究生" %}
+            //var arr1 = ['学校一','学校2','学校3'];    // 页面链接失效404
+            var arr1 = new Array();
+            {% for a1 in postgraduate.data404university %}
+                {#console.log(a1, "---a1");#}
+                arr1.push("{{ a1 }}");
+            {% endfor %}
+            console.log(arr1, "---arr1");
+
+            //var arr2 = ['学校11','学校22','学校33','学校3sds3'];   // 页面禁止访问403
+            var arr2 = new Array();
+            {% for a2 in postgraduate.data403university %}
+                arr2.push("{{ a2 }}");
+            {% endfor %}
+
+            //var arr3 = ['学校111','学校222','学校333','学校44444'];  // 页面结构变化200
+            var arr3 = new Array();
+            {% for a3 in postgraduate.dataStructure200university %}
+                arr3.push("{{ a3 }}");
+            {% endfor %}
+
+            //var arr4 = new Array('[{{ dataContent200university }}]');  // 页面内容变化200
+            var arr4 = new Array();
+            {% for a4 in postgraduate.dataContent200university %}
+                arr4.push("{{ a4 }}");
+            {% endfor %}
+            //console.log(arr4,"==***==");
+
+            var num1 = {{ postgraduate.data404number }};  // 页面链接失效数量
+            var num1Con = document.getElementById('num1'); num1Con.innerText = num1;
+            var num2 = {{ postgraduate.data403number }};  // 页面禁止访问数量
+            var num2Con = document.getElementById('num2'); num2Con.innerText = num2;
+            var num3 = {{ postgraduate.dataStructure200number }};  // 页面结构变化数量
+            var num3Con = document.getElementById('num3'); num3Con.innerText = num3;
+            var num4 = {{ postgraduate.dataContent200number }};  // 页面内容变化数量
+            var num4Con = document.getElementById('num4'); num4Con.innerText = num4;
+            var objSelectet1 = document.getElementById('select_id1');
+            var objSelectet2 = document.getElementById('select_id2');
+            var objSelectet3 = document.getElementById('select_id3');
+            var objSelectet4 = document.getElementById('select_id4');
+
+        {% endifequal %}
+
+        // 页面链接失效
+        for(var i = 0 ; i < arr1.length ; i++){ 
+            var objOption = document.createElement("OPTION");
+            objSelectet1.options.add(objOption);
+            objOption.text= arr1[i];
+        } 
+        
+        // 页面禁止访问
+        for(var i = 0 ; i < arr2.length ; i++){ 
+            var objOption = document.createElement("OPTION");
+            objSelectet2.options.add(objOption);
+            objOption.text= arr2[i];
+        } 
+
+        // 页面结构变化
+        for(var i = 0 ; i < arr3.length ; i++){ 
+            var objOption = document.createElement("OPTION");
+            objSelectet3.options.add(objOption);
+            objOption.text= arr3[i];
+        } 
+
+        // 页面内容变化
+        for(var i = 0 ; i < arr4.length ; i++){ 
+            var objOption = document.createElement("OPTION");
+            objSelectet4.options.add(objOption);
+            objOption.text= arr4[i];
+        }
+
+
+        // 饼图
+		var myChart = echarts.init(document.getElementById('charts'));
+
+        // 指定图表的配置项和数据
+        var option = {
+			series: [
+				{
+					name: '访问来源',
+					type: 'pie',
+					radius: '55%',
+					data:[
+						{value:num1, name:'页面链接失效(404)'},
+						{value:num2, name:'页面禁止访问(403)'},
+						{value:num3, name:'页面结构变化(200)'},
+						{value:num4, name:'页面内容变化(200)'},
+					]
+				}
+			]
+		};
+
+        // 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+
+   </script>
+</body>
+</html>

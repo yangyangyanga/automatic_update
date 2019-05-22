@@ -1,0 +1,1093 @@
+正在监控id为 cu22640 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:2.70%
+正在监控id为 cu22641 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:5.40%
+正在监控id为 cu22642 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:8.10%
+正在监控id为 cu22643 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:10.80%
+正在监控id为 cu22644 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:13.50%
+正在监控id为 cu22645 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:16.20%
+正在监控id为 cu22646 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:18.90%
+正在监控id为 cu22647 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:21.60%
+正在监控id为 cu22650 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:24.30%
+正在监控id为 cu22653 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:27.00%
+正在监控id为 cu22654 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:29.70%
+正在监控id为 cu22655 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:32.40%
+正在监控id为 cu22656 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:35.10%
+正在监控id为 cu22660 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:37.80%
+正在监控id为 cu22661 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:40.50%
+正在监控id为 cu22662 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:43.20%
+正在监控id为 cu22663 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:45.90%
+正在监控id为 cu22664 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:48.60%
+正在监控id为 cu22665 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:51.30%
+正在监控id为 cu22666 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:54.00%
+正在监控id为 cu22667 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:56.70%
+正在监控id为 cu22668 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:59.40%
+正在监控id为 cu22669 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:62.10%
+正在监控id为 cu22670 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:64.80%
+正在监控id为 cu22671 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:67.50%
+正在监控id为 cu22672 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:70.20%
+正在监控id为 cu22640 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:2.70%
+正在监控id为 cu22641 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:5.40%
+正在监控id为 cu22642 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:8.10%
+正在监控id为 cu22643 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:10.80%
+正在监控id为 cu22644 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:13.50%
+正在监控id为 cu22645 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:16.20%
+正在监控id为 cu22646 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:18.90%
+正在监控id为 cu22647 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:21.60%
+正在监控id为 cu22650 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:24.30%
+正在监控id为 cu22653 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:27.00%
+正在监控id为 cu22654 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:29.70%
+正在监控id为 cu22655 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:32.40%
+正在监控id为 cu22656 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:35.10%
+正在监控id为 cu22660 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:37.80%
+正在监控id为 cu22661 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:40.50%
+正在监控id为 cu22662 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:43.20%
+正在监控id为 cu22663 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:45.90%
+正在监控id为 cu22664 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:48.60%
+正在监控id为 cu22665 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:51.30%
+正在监控id为 cu22666 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:54.00%
+正在监控id为 cu22667 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:56.70%
+正在监控id为 cu22668 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:59.40%
+正在监控id为 cu22669 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:62.10%
+正在监控id为 cu22670 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:64.80%
+正在监控id为 cu22671 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:67.50%
+正在监控id为 cu22672 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:70.20%
+正在监控id为 cu22673 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:72.90%
+正在监控id为 cu22674 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:75.60%
+正在监控id为 cu22675 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:78.30%
+正在监控id为 cu22676 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:81.00%
+正在监控id为 cu22677 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:83.70%
+正在监控id为 cu22678 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:86.40%
+正在监控id为 cu22679 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:89.10%
+正在监控id为 cu22680 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:91.80%
+正在监控id为 cu22681 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:94.50%
+正在监控id为 cu1121812 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:97.20%
+正在监控id为 cu1121813 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:100.0%
+正在监控id为 cu1121013 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:0.70%
+正在监控id为 cu1121014 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:1.40%
+正在监控id为 cu1121015 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:2.20%
+正在监控id为 cu1121016 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:2.90%
+正在监控id为 cu1121017 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:3.60%
+正在监控id为 cu1121018 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:4.40%
+正在监控id为 cu1121019 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:5.10%
+正在监控id为 cu1121020 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:5.80%
+正在监控id为 cu1121021 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:6.60%
+正在监控id为 cu1121022 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:7.30%
+正在监控id为 cu1121023 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:8.00%
+正在监控id为 cu1121024 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:8.80%
+正在监控id为 cu1121025 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:9.50%
+正在监控id为 cu1121026 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:10.20%
+正在监控id为 cu1121027 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:11.00%
+正在监控id为 cu1121029 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:11.70%
+正在监控id为 cu1121030 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:12.50%
+正在监控id为 cu1121031 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:13.20%
+正在监控id为 cu1121032 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:13.90%
+正在监控id为 cu1121033 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:14.70%
+正在监控id为 cu1121034 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:15.40%
+正在监控id为 cu1121035 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:16.10%
+正在监控id为 cu1121036 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:16.90%
+正在监控id为 cu1121037 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:17.60%
+正在监控id为 cu1121038 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:18.30%
+正在监控id为 cu1121039 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:19.10%
+正在监控id为 cu1121040 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:19.80%
+正在监控id为 cu1121041 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:20.50%
+正在监控id为 cu1121042 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:21.30%
+正在监控id为 cu1121043 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:22.00%
+正在监控id为 cu1121045 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:22.70%
+正在监控id为 cu1121046 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:23.50%
+正在监控id为 cu1121048 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:24.20%
+正在监控id为 cu1121049 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:25.00%
+正在监控id为 cu1121050 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:25.70%
+正在监控id为 cu1121051 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:26.40%
+正在监控id为 cu1121052 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:27.20%
+正在监控id为 cu1121053 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:27.90%
+正在监控id为 cu1121054 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:28.60%
+正在监控id为 cu1121055 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:29.40%
+正在监控id为 cu1121056 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:30.10%
+正在监控id为 cu1121057 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:30.80%
+正在监控id为 cu1121058 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:31.60%
+正在监控id为 cu1121059 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:32.30%
+正在监控id为 cu1121060 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:33.00%
+正在监控id为 cu1121061 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:33.80%
+正在监控id为 cu1121062 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:34.50%
+正在监控id为 cu1121063 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:35.20%
+正在监控id为 cu1121064 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:36.00%
+正在监控id为 cu1121065 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:36.70%
+正在监控id为 cu1121067 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:37.50%
+正在监控id为 cu1121068 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:38.20%
+正在监控id为 cu1121069 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:38.90%
+正在监控id为 cu1121070 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:39.70%
+正在监控id为 cu1121071 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:40.40%
+正在监控id为 cu1121072 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:41.10%
+正在监控id为 cu1121073 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:41.90%
+正在监控id为 cu1121074 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:42.60%
+正在监控id为 cu1121075 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:43.30%
+正在监控id为 cu1121077 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:44.10%
+正在监控id为 cu1121078 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:44.80%
+正在监控id为 cu1121079 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:45.50%
+正在监控id为 cu1121080 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:46.30%
+正在监控id为 cu1121081 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:47.00%
+正在监控id为 cu1121082 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:47.70%
+正在监控id为 cu1121083 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:48.50%
+正在监控id为 cu1121084 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:49.20%
+正在监控id为 cu1121086 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:50.00%
+正在监控id为 cu1121087 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:50.70%
+正在监控id为 cu1121092 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:51.40%
+正在监控id为 cu1121093 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:52.20%
+正在监控id为 cu1121094 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:52.90%
+正在监控id为 cu1121096 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:53.60%
+正在监控id为 cu1121097 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:54.40%
+正在监控id为 cu1121098 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:55.10%
+正在监控id为 cu1121099 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:55.80%
+正在监控id为 cu1121100 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:56.60%
+正在监控id为 cu1121101 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:57.30%
+正在监控id为 cu1121102 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:58.00%
+正在监控id为 cu1121103 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:58.80%
+正在监控id为 cu1121104 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:59.50%
+正在监控id为 cu1121105 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:60.20%
+正在监控id为 cu1121106 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:61.00%
+正在监控id为 cu1121108 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:61.70%
+正在监控id为 cu1121109 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:62.50%
+正在监控id为 cu1121110 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:63.20%
+正在监控id为 cu1121111 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:63.90%
+正在监控id为 cu1121112 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:64.70%
+正在监控id为 cu1121113 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:65.40%
+正在监控id为 cu1121115 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:66.10%
+正在监控id为 cu1121116 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:66.90%
+正在监控id为 cu1121117 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:67.60%
+正在监控id为 cu1121118 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:68.30%
+正在监控id为 cu1121119 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:69.10%
+正在监控id为 cu1121121 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:69.80%
+正在监控id为 cu1121122 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:70.50%
+正在监控id为 cu1121123 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:71.30%
+正在监控id为 cu1121124 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:72.00%
+正在监控id为 cu1121125 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:72.70%
+正在监控id为 cu1121126 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:73.50%
+正在监控id为 cu1121127 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:74.20%
+正在监控id为 cu1121128 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:75.00%
+正在监控id为 cu1121129 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:75.70%
+正在监控id为 cu1121130 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:76.40%
+正在监控id为 cu1121132 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:77.20%
+正在监控id为 cu1121133 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:77.90%
+正在监控id为 cu1121134 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:78.60%
+正在监控id为 cu1121135 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:79.40%
+正在监控id为 cu1121136 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:80.10%
+正在监控id为 cu1121139 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:80.80%
+正在监控id为 cu1121140 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:81.60%
+正在监控id为 cu1121141 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:82.30%
+正在监控id为 cu1121142 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:83.00%
+正在监控id为 cu1121143 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:83.80%
+正在监控id为 cu1121145 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:84.50%
+正在监控id为 cu1121146 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:85.20%
+正在监控id为 cu1121147 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:86.00%
+正在监控id为 cu1121149 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:86.70%
+正在监控id为 cu1121150 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:87.50%
+正在监控id为 cu1121151 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:88.20%
+正在监控id为 cu1121152 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:88.90%
+正在监控id为 cu1121153 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:89.70%
+正在监控id为 cu1121154 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:90.40%
+正在监控id为 cu1121155 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:91.10%
+正在监控id为 cu1121156 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:91.90%
+正在监控id为 cu1121157 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:92.60%
+正在监控id为 cu1121158 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:93.30%
+正在监控id为 cu1121160 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:94.10%
+正在监控id为 cu1121161 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:94.80%
+正在监控id为 cu1121162 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:95.50%
+正在监控id为 cu1121163 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:96.30%
+正在监控id为 cu1121164 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:97.00%
+正在监控id为 cu1121165 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:97.70%
+正在监控id为 cu1121167 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:98.50%
+正在监控id为 cu1121268 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:99.20%
+正在监控id为 cu1224120342 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:100.0%
+正在监控id为 cu1118798 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:0.70%
+正在监控id为 cu1118799 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:1.50%
+正在监控id为 cu1118800 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:2.30%
+正在监控id为 cu1118801 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:3.00%
+正在监控id为 cu1118802 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:3.80%
+正在监控id为 cu1118803 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:4.60%
+正在监控id为 cu1118804 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:5.30%
+正在监控id为 cu1118805 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:6.10%
+正在监控id为 cu1118806 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:6.90%
+正在监控id为 cu1118808 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:7.60%
+正在监控id为 cu1118809 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:8.40%
+正在监控id为 cu1118810 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:9.20%
+正在监控id为 cu1118811 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:10.00%
+正在监控id为 cu1118812 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:10.70%
+正在监控id为 cu1118813 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:11.50%
+正在监控id为 cu1118814 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:12.30%
+正在监控id为 cu1118815 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:13.00%
+正在监控id为 cu1118816 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:13.80%
+正在监控id为 cu1118817 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:14.60%
+正在监控id为 cu1118818 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:15.30%
+正在监控id为 cu1118819 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:16.10%
+正在监控id为 cu1118820 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:16.90%
+正在监控id为 cu1118821 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:17.60%
+正在监控id为 cu1118822 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:18.40%
+正在监控id为 cu1118823 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:19.20%
+正在监控id为 cu1118824 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:20.00%
+正在监控id为 cu1118825 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:20.70%
+正在监控id为 cu1118826 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:21.50%
+正在监控id为 cu1118827 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:22.30%
+正在监控id为 cu1118828 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:23.00%
+正在监控id为 cu1118829 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:23.80%
+正在监控id为 cu1118830 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:24.60%
+正在监控id为 cu1118831 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:25.30%
+正在监控id为 cu1118832 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:26.10%
+正在监控id为 cu1118833 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:26.90%
+正在监控id为 cu1118834 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:27.60%
+正在监控id为 cu1118835 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:28.40%
+正在监控id为 cu1118836 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:29.20%
+正在监控id为 cu1118837 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:30.00%
+正在监控id为 cu1118838 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:30.70%
+正在监控id为 cu1118839 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:31.50%
+正在监控id为 cu1118840 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:32.30%
+正在监控id为 cu1118841 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:33.00%
+正在监控id为 cu1118842 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:33.80%
+正在监控id为 cu1118843 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:34.60%
+正在监控id为 cu1118844 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:35.30%
+正在监控id为 cu1118845 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:36.10%
+正在监控id为 cu1118846 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:36.90%
+正在监控id为 cu1118847 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:37.60%
+正在监控id为 cu1118848 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:38.40%
+正在监控id为 cu1118849 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:39.20%
+正在监控id为 cu1118850 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:40.00%
+正在监控id为 cu1118851 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:40.70%
+正在监控id为 cu1118852 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:41.50%
+正在监控id为 cu1118853 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:42.30%
+正在监控id为 cu1118854 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:43.00%
+正在监控id为 cu1118855 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:43.80%
+正在监控id为 cu1118856 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:44.60%
+正在监控id为 cu1118857 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:45.30%
+正在监控id为 cu1118858 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:46.10%
+正在监控id为 cu1118859 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:46.90%
+正在监控id为 cu1118860 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:47.60%
+正在监控id为 cu1118861 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:48.40%
+正在监控id为 cu1118862 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:49.20%
+正在监控id为 cu1118863 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:50.00%
+正在监控id为 cu1118864 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:50.70%
+正在监控id为 cu1118865 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:51.50%
+正在监控id为 cu1118866 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:52.30%
+正在监控id为 cu1118867 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:53.00%
+正在监控id为 cu1118868 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:53.80%
+正在监控id为 cu1118869 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:54.60%
+正在监控id为 cu1118870 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:55.30%
+正在监控id为 cu1118871 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:56.10%
+正在监控id为 cu1118872 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:56.90%
+正在监控id为 cu1118873 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:57.60%
+正在监控id为 cu1118874 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:58.40%
+正在监控id为 cu1118875 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:59.20%
+正在监控id为 cu1118876 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:60.00%
+正在监控id为 cu1118877 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:60.70%
+正在监控id为 cu1118878 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:61.50%
+正在监控id为 cu1118879 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:62.30%
+正在监控id为 cu1118880 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:63.00%
+正在监控id为 cu1118881 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:63.80%
+正在监控id为 cu1118882 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:64.60%
+正在监控id为 cu1118883 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:65.30%
+正在监控id为 cu1118884 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:66.10%
+正在监控id为 cu1118885 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:66.90%
+正在监控id为 cu1118886 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:67.60%
+正在监控id为 cu1118887 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:68.40%
+正在监控id为 cu1118888 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:69.20%
+正在监控id为 cu1118889 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:70.00%
+正在监控id为 cu1118890 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:70.70%
+正在监控id为 cu1118891 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:71.50%
+正在监控id为 cu1118892 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:72.30%
+正在监控id为 cu1118893 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:73.00%
+正在监控id为 cu1118894 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:73.80%
+正在监控id为 cu1118895 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:74.60%
+正在监控id为 cu1118896 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:75.30%
+正在监控id为 cu1118897 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:76.10%
+正在监控id为 cu1118898 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:76.90%
+正在监控id为 cu1118899 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:77.60%
+正在监控id为 cu1118900 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:78.40%
+正在监控id为 cu1118901 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:79.20%
+正在监控id为 cu1118902 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:80.00%
+正在监控id为 cu1118903 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:80.70%
+正在监控id为 cu1118904 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:81.50%
+正在监控id为 cu1118905 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:82.30%
+正在监控id为 cu1118906 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:83.00%
+正在监控id为 cu1118907 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:83.80%
+正在监控id为 cu1118908 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:84.60%
+正在监控id为 cu1118909 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:85.30%
+正在监控id为 cu1118910 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:86.10%
+正在监控id为 cu1118911 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:86.90%
+正在监控id为 cu1118912 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:87.60%
+正在监控id为 cu1118913 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:88.40%
+正在监控id为 cu1118914 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:89.20%
+正在监控id为 cu1118915 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:90.00%
+正在监控id为 cu1118916 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:90.70%
+正在监控id为 cu1118917 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:91.50%
+正在监控id为 cu1118919 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:92.30%
+正在监控id为 cu1118920 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:93.00%
+正在监控id为 cu1118921 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:93.80%
+正在监控id为 cu1118922 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:94.60%
+正在监控id为 cu1118923 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:95.30%
+正在监控id为 cu1118924 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:96.10%
+正在监控id为 cu1118925 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:96.90%
+正在监控id为 cu1118926 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:97.60%
+正在监控id为 cu1118927 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:98.40%
+正在监控id为 cu1118928 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:99.20%
+正在监控id为 cu1118929 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:100.0%
+正在监控id为 cu1121848 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:1.10%
+正在监控id为 cu1121849 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:2.30%
+正在监控id为 cu1121850 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:3.50%
+正在监控id为 cu1121851 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:4.70%
+正在监控id为 cu1121852 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:5.80%
+正在监控id为 cu1121853 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:7.00%
+正在监控id为 cu1121854 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:8.20%
+正在监控id为 cu1121855 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:9.40%
+正在监控id为 cu1121856 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:10.50%
+正在监控id为 cu1121857 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:11.70%
+正在监控id为 cu1121858 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:12.90%
+正在监控id为 cu1121859 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:14.10%
+正在监控id为 cu1121860 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:15.20%
+正在监控id为 cu1121861 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:16.40%
+正在监控id为 cu1121862 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:17.60%
+正在监控id为 cu1121863 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:18.80%
+正在监控id为 cu1121864 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:20.00%
+正在监控id为 cu1121865 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:21.10%
+正在监控id为 cu1121866 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:22.30%
+正在监控id为 cu1121867 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:23.50%
+正在监控id为 cu1121868 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:24.70%
+正在监控id为 cu1121869 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:25.80%
+正在监控id为 cu1121870 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:27.00%
+正在监控id为 cu1121871 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:28.20%
+正在监控id为 cu1121872 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:29.40%
+正在监控id为 cu1121873 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:30.50%
+正在监控id为 cu1121874 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:31.70%
+正在监控id为 cu1121875 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:32.90%
+正在监控id为 cu1121876 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:34.10%
+正在监控id为 cu1121877 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:35.20%
+正在监控id为 cu1121878 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:36.40%
+正在监控id为 cu1121879 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:37.60%
+正在监控id为 cu1121880 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:38.80%
+正在监控id为 cu1121881 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:40.00%
+正在监控id为 cu1121882 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:41.10%
+正在监控id为 cu1121883 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:42.30%
+正在监控id为 cu1121884 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:43.50%
+正在监控id为 cu1121885 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:44.70%
+正在监控id为 cu1121886 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:45.80%
+正在监控id为 cu1121887 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:47.00%
+正在监控id为 cu1121888 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:48.20%
+正在监控id为 cu1121889 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:49.40%
+正在监控id为 cu1121890 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:50.50%
+正在监控id为 cu1121891 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:51.70%
+正在监控id为 cu1121892 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:52.90%
+正在监控id为 cu1121893 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:54.10%
+正在监控id为 cu1121894 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:55.20%
+正在监控id为 cu1121895 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:56.40%
+正在监控id为 cu1121896 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:57.60%
+正在监控id为 cu1121897 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:58.80%
+正在监控id为 cu1121898 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:60.00%
+正在监控id为 cu1121899 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:61.10%
+正在监控id为 cu1121900 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:62.30%
+正在监控id为 cu1121901 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:63.50%
+正在监控id为 cu1121902 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:64.70%
+正在监控id为 cu1121903 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:65.80%
+正在监控id为 cu1121904 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:67.00%
+正在监控id为 cu1121905 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:68.20%
+正在监控id为 cu1121906 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:69.40%
+正在监控id为 cu1121907 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:70.50%
+正在监控id为 cu1121908 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:71.70%
+正在监控id为 cu1121909 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:72.90%
+正在监控id为 cu1121910 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:74.10%
+正在监控id为 cu1121911 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:75.20%
+正在监控id为 cu1121912 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:76.40%
+正在监控id为 cu1121913 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:77.60%
+正在监控id为 cu1121914 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:78.80%
+正在监控id为 cu1121915 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:80.00%
+正在监控id为 cu1121916 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:81.10%
+正在监控id为 cu1121917 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:82.30%
+正在监控id为 cu1121918 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:83.50%
+正在监控id为 cu1121919 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:84.70%
+正在监控id为 cu1121920 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:85.80%
+正在监控id为 cu1121921 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:87.00%
+正在监控id为 cu1121922 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:88.20%
+正在监控id为 cu1121923 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:89.40%
+正在监控id为 cu1121924 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:90.50%
+正在监控id为 cu1121925 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:91.70%
+正在监控id为 cu1121926 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:92.90%
+正在监控id为 cu1121927 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:94.10%
+正在监控id为 cu1121928 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:95.20%
+正在监控id为 cu1121929 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:96.40%
+正在监控id为 cu1121930 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:97.60%
+正在监控id为 cu1122130 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:98.80%
+正在监控id为 cu1122131 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:100.0%
+正在监控id为 cu13535 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:0.90%
+正在监控id为 cu13536 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:1.90%
+正在监控id为 cu13537 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:2.90%
+正在监控id为 cu13538 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:3.90%
+正在监控id为 cu13539 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:4.90%
+正在监控id为 cu13540 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:5.80%
+正在监控id为 cu13541 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:6.80%
+正在监控id为 cu13542 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:7.80%
+正在监控id为 cu13543 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:8.80%
+正在监控id为 cu13544 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:9.80%
+正在监控id为 cu13545 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:10.70%
+正在监控id为 cu13546 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:11.70%
+正在监控id为 cu13547 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:12.70%
+正在监控id为 cu13548 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:13.70%
+正在监控id为 cu13549 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:14.70%
+正在监控id为 cu13550 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:15.60%
+正在监控id为 cu13551 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:16.60%
+正在监控id为 cu13552 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:17.60%
+正在监控id为 cu13554 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:18.60%
+正在监控id为 cu13555 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:19.60%
+正在监控id为 cu13556 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:20.50%
+正在监控id为 cu13557 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:21.50%
+正在监控id为 cu13558 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:22.50%
+正在监控id为 cu13559 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:23.50%
+正在监控id为 cu13560 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:24.50%
+正在监控id为 cu13561 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:25.40%
+正在监控id为 cu13562 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:26.40%
+正在监控id为 cu13563 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:27.40%
+正在监控id为 cu13564 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:28.40%
+正在监控id为 cu13565 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:29.40%
+正在监控id为 cu13566 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:30.30%
+正在监控id为 cu13568 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:31.30%
+正在监控id为 cu13569 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:32.30%
+正在监控id为 cu13570 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:33.30%
+正在监控id为 cu13571 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:34.30%
+正在监控id为 cu13572 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:35.20%
+正在监控id为 cu13573 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:36.20%
+正在监控id为 cu13575 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:37.20%
+正在监控id为 cu13576 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:38.20%
+正在监控id为 cu13577 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:39.20%
+正在监控id为 cu13578 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:40.10%
+正在监控id为 cu13579 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:41.10%
+正在监控id为 cu13580 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:42.10%
+正在监控id为 cu13581 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:43.10%
+正在监控id为 cu13582 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:44.10%
+正在监控id为 cu13583 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:45.00%
+正在监控id为 cu13584 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:46.00%
+正在监控id为 cu13585 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:47.00%
+正在监控id为 cu13586 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:48.00%
+正在监控id为 cu13587 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:49.00%
+正在监控id为 cu13588 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:50.00%
+正在监控id为 cu13589 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:50.90%
+正在监控id为 cu13590 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:51.90%
+正在监控id为 cu13591 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:52.90%
+正在监控id为 cu13592 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:53.90%
+正在监控id为 cu13593 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:54.90%
+正在监控id为 cu13594 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:55.80%
+正在监控id为 cu13595 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:56.80%
+正在监控id为 cu13596 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:57.80%
+正在监控id为 cu13597 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:58.80%
+正在监控id为 cu13598 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:59.80%
+正在监控id为 cu13599 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:60.70%
+正在监控id为 cu13600 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:61.70%
+正在监控id为 cu13601 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:62.70%
+正在监控id为 cu13602 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:63.70%
+正在监控id为 cu13603 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:64.70%
+正在监控id为 cu13604 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:65.60%
+正在监控id为 cu13605 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:66.60%
+正在监控id为 cu13606 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:67.60%
+正在监控id为 cu13607 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:68.60%
+正在监控id为 cu13608 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:69.60%
+正在监控id为 cu13609 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:70.50%
+正在监控id为 cu13610 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:71.50%
+正在监控id为 cu13611 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:72.50%
+正在监控id为 cu13612 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:73.50%
+正在监控id为 cu13613 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:74.50%
+正在监控id为 cu13614 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:75.40%
+正在监控id为 cu13616 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:76.40%
+正在监控id为 cu13617 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:77.40%
+正在监控id为 cu13618 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:78.40%
+正在监控id为 cu13619 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:79.40%
+正在监控id为 cu13620 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:80.30%
+正在监控id为 cu13622 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:81.30%
+正在监控id为 cu13623 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:82.30%
+正在监控id为 cu13624 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:83.30%
+正在监控id为 cu13625 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:84.30%
+正在监控id为 cu13626 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:85.20%
+正在监控id为 cu13627 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:86.20%
+正在监控id为 cu13631 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:87.20%
+正在监控id为 cu13632 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:88.20%
+正在监控id为 cu13633 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:89.20%
+正在监控id为 cu13634 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:90.10%
+正在监控id为 cu13635 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:91.10%
+正在监控id为 cu13636 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:92.10%
+正在监控id为 cu13637 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:93.10%
+正在监控id为 cu13638 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:94.10%
+正在监控id为 cu13639 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:95.00%
+正在监控id为 cu1356001 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:96.00%
+正在监控id为 cu13573001 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:97.00%
+正在监控id为 cu13594001 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:98.00%
+正在监控id为 cu13639001 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:99.00%
+正在监控id为 cu1224120343 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:100.0%
+正在监控id为 cu22762 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:0.30%
+正在监控id为 cu22763 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:0.70%
+正在监控id为 cu22765 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:1.10%
+正在监控id为 cu22766 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:1.40%
+正在监控id为 cu22767 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:1.80%
+正在监控id为 cu22768 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:2.20%
+正在监控id为 cu22769 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:2.50%
+正在监控id为 cu22770 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:2.90%
+正在监控id为 cu22772 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:3.30%
+正在监控id为 cu22773 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:3.60%
+正在监控id为 cu22774 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:4.00%
+正在监控id为 cu22775 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:4.40%
+正在监控id为 cu22776 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:4.70%
+正在监控id为 cu22777 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:5.10%
+正在监控id为 cu22778 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:5.50%
+正在监控id为 cu22779 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:5.80%
+正在监控id为 cu22780 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:6.20%
+正在监控id为 cu22781 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:6.60%
+正在监控id为 cu22782 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:6.90%
+正在监控id为 cu22783 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:7.30%
+正在监控id为 cu22784 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:7.70%
+正在监控id为 cu22786 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:8.00%
+正在监控id为 cu22787 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:8.40%
+正在监控id为 cu22789 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:8.80%
+正在监控id为 cu22790 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:9.10%
+正在监控id为 cu22791 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:9.50%
+正在监控id为 cu22792 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:9.90%
+正在监控id为 cu22793 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:10.20%
+正在监控id为 cu22794 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:10.60%
+正在监控id为 cu22795 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:11.00%
+正在监控id为 cu22796 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:11.30%
+正在监控id为 cu22797 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:11.70%
+正在监控id为 cu22798 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:12.10%
+正在监控id为 cu22799 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:12.50%
+正在监控id为 cu22800 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:12.80%
+正在监控id为 cu22801 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:13.20%
+正在监控id为 cu22802 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:13.60%
+正在监控id为 cu22803 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:13.90%
+正在监控id为 cu22804 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:14.30%
+正在监控id为 cu22805 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:14.70%
+正在监控id为 cu22806 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:15.00%
+正在监控id为 cu22807 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:15.40%
+正在监控id为 cu22808 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:15.80%
+正在监控id为 cu22809 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:16.10%
+正在监控id为 cu22810 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:16.50%
+正在监控id为 cu22811 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:16.90%
+正在监控id为 cu22812 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:17.20%
+正在监控id为 cu22813 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:17.60%
+正在监控id为 cu22814 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:18.00%
+正在监控id为 cu22815 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:18.30%
+正在监控id为 cu22816 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:18.70%
+正在监控id为 cu22817 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:19.10%
+正在监控id为 cu22818 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:19.40%
+正在监控id为 cu22819 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:19.80%
+正在监控id为 cu22820 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:20.20%
+正在监控id为 cu22821 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:20.50%
+正在监控id为 cu22640 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:2.70%
+正在监控id为 cu22641 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:5.40%
+正在监控id为 cu22642 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:8.10%
+正在监控id为 cu22643 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:10.80%
+正在监控id为 cu22644 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:13.50%
+正在监控id为 cu22645 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:16.20%
+正在监控id为 cu22646 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:18.90%
+正在监控id为 cu22647 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:21.60%
+正在监控id为 cu22650 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:24.30%
+正在监控id为 cu22653 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:27.00%
+正在监控id为 cu22654 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:29.70%
+正在监控id为 cu22655 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:32.40%
+正在监控id为 cu22656 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:35.10%
+正在监控id为 cu22660 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:37.80%
+正在监控id为 cu22661 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:40.50%
+正在监控id为 cu22662 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:43.20%
+正在监控id为 cu22663 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:45.90%
+正在监控id为 cu22664 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:48.60%
+正在监控id为 cu22665 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:51.30%
+正在监控id为 cu22666 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:54.00%
+正在监控id为 cu22667 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:56.70%
+正在监控id为 cu22668 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:59.40%
+正在监控id为 cu22669 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:62.10%
+正在监控id为 cu22670 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:64.80%
+正在监控id为 cu22671 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:67.50%
+正在监控id为 cu22672 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:70.20%
+正在监控id为 cu22673 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:72.90%
+正在监控id为 cu22674 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:75.60%
+正在监控id为 cu22675 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:78.30%
+正在监控id为 cu22676 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:81.00%
+正在监控id为 cu22677 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:83.70%
+正在监控id为 cu22678 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:86.40%
+正在监控id为 cu22679 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:89.10%
+正在监控id为 cu22680 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:91.80%
+正在监控id为 cu22681 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:94.50%
+正在监控id为 cu1121812 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:97.20%
+正在监控id为 cu1121813 的专业名、学位类型、课程时长等字段，学校:McMaster University 进度:100.0%
+正在监控id为 cu1121013 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:0.70%
+正在监控id为 cu1121014 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:1.40%
+正在监控id为 cu1121015 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:2.20%
+正在监控id为 cu1121016 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:2.90%
+正在监控id为 cu1121017 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:3.60%
+正在监控id为 cu1121018 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:4.40%
+正在监控id为 cu1121019 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:5.10%
+正在监控id为 cu1121020 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:5.80%
+正在监控id为 cu1121021 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:6.60%
+正在监控id为 cu1121022 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:7.30%
+正在监控id为 cu1121023 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:8.00%
+正在监控id为 cu1121024 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:8.80%
+正在监控id为 cu1121025 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:9.50%
+正在监控id为 cu1121026 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:10.20%
+正在监控id为 cu1121027 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:11.00%
+正在监控id为 cu1121029 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:11.70%
+正在监控id为 cu1121030 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:12.50%
+正在监控id为 cu1121031 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:13.20%
+正在监控id为 cu1121032 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:13.90%
+正在监控id为 cu1121033 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:14.70%
+正在监控id为 cu1121034 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:15.40%
+正在监控id为 cu1121035 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:16.10%
+正在监控id为 cu1121036 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:16.90%
+正在监控id为 cu1121037 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:17.60%
+正在监控id为 cu1121038 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:18.30%
+正在监控id为 cu1121039 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:19.10%
+正在监控id为 cu1121040 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:19.80%
+正在监控id为 cu1121041 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:20.50%
+正在监控id为 cu1121042 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:21.30%
+正在监控id为 cu1121043 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:22.00%
+正在监控id为 cu1121045 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:22.70%
+正在监控id为 cu1121046 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:23.50%
+正在监控id为 cu1121048 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:24.20%
+正在监控id为 cu1121049 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:25.00%
+正在监控id为 cu1121050 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:25.70%
+正在监控id为 cu1121051 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:26.40%
+正在监控id为 cu1121052 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:27.20%
+正在监控id为 cu1121053 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:27.90%
+正在监控id为 cu1121054 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:28.60%
+正在监控id为 cu1121055 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:29.40%
+正在监控id为 cu1121056 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:30.10%
+正在监控id为 cu1121057 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:30.80%
+正在监控id为 cu1121058 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:31.60%
+正在监控id为 cu1121059 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:32.30%
+正在监控id为 cu1121060 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:33.00%
+正在监控id为 cu1121061 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:33.80%
+正在监控id为 cu1121062 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:34.50%
+正在监控id为 cu1121063 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:35.20%
+正在监控id为 cu1121064 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:36.00%
+正在监控id为 cu1121065 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:36.70%
+正在监控id为 cu1121067 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:37.50%
+正在监控id为 cu1121068 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:38.20%
+正在监控id为 cu1121069 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:38.90%
+正在监控id为 cu1121070 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:39.70%
+正在监控id为 cu1121071 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:40.40%
+正在监控id为 cu1121072 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:41.10%
+正在监控id为 cu1121073 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:41.90%
+正在监控id为 cu1121074 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:42.60%
+正在监控id为 cu1121075 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:43.30%
+正在监控id为 cu1121077 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:44.10%
+正在监控id为 cu1121078 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:44.80%
+正在监控id为 cu1121079 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:45.50%
+正在监控id为 cu1121080 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:46.30%
+正在监控id为 cu1121081 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:47.00%
+正在监控id为 cu1121082 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:47.70%
+正在监控id为 cu1121083 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:48.50%
+正在监控id为 cu1121084 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:49.20%
+正在监控id为 cu1121086 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:50.00%
+正在监控id为 cu1121087 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:50.70%
+正在监控id为 cu1121092 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:51.40%
+正在监控id为 cu1121093 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:52.20%
+正在监控id为 cu1121094 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:52.90%
+正在监控id为 cu1121096 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:53.60%
+正在监控id为 cu1121097 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:54.40%
+正在监控id为 cu1121098 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:55.10%
+正在监控id为 cu1121099 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:55.80%
+正在监控id为 cu1121100 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:56.60%
+正在监控id为 cu1121101 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:57.30%
+正在监控id为 cu1121102 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:58.00%
+正在监控id为 cu1121103 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:58.80%
+正在监控id为 cu1121104 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:59.50%
+正在监控id为 cu1121105 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:60.20%
+正在监控id为 cu1121106 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:61.00%
+正在监控id为 cu1121108 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:61.70%
+正在监控id为 cu1121109 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:62.50%
+正在监控id为 cu1121110 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:63.20%
+正在监控id为 cu1121111 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:63.90%
+正在监控id为 cu1121112 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:64.70%
+正在监控id为 cu1121113 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:65.40%
+正在监控id为 cu1121115 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:66.10%
+正在监控id为 cu1121116 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:66.90%
+正在监控id为 cu1121117 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:67.60%
+正在监控id为 cu1121118 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:68.30%
+正在监控id为 cu1121119 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:69.10%
+正在监控id为 cu1121121 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:69.80%
+正在监控id为 cu1121122 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:70.50%
+正在监控id为 cu1121123 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:71.30%
+正在监控id为 cu1121124 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:72.00%
+正在监控id为 cu1121125 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:72.70%
+正在监控id为 cu1121126 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:73.50%
+正在监控id为 cu1121127 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:74.20%
+正在监控id为 cu1121128 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:75.00%
+正在监控id为 cu1121129 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:75.70%
+正在监控id为 cu1121130 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:76.40%
+正在监控id为 cu1121132 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:77.20%
+正在监控id为 cu1121133 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:77.90%
+正在监控id为 cu1121134 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:78.60%
+正在监控id为 cu1121135 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:79.40%
+正在监控id为 cu1121136 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:80.10%
+正在监控id为 cu1121139 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:80.80%
+正在监控id为 cu1121140 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:81.60%
+正在监控id为 cu1121141 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:82.30%
+正在监控id为 cu1121142 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:83.00%
+正在监控id为 cu1121143 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:83.80%
+正在监控id为 cu1121145 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:84.50%
+正在监控id为 cu1121146 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:85.20%
+正在监控id为 cu1121147 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:86.00%
+正在监控id为 cu1121149 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:86.70%
+正在监控id为 cu1121150 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:87.50%
+正在监控id为 cu1121151 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:88.20%
+正在监控id为 cu1121152 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:88.90%
+正在监控id为 cu1121153 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:89.70%
+正在监控id为 cu1121154 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:90.40%
+正在监控id为 cu1121155 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:91.10%
+正在监控id为 cu1121156 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:91.90%
+正在监控id为 cu1121157 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:92.60%
+正在监控id为 cu1121158 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:93.30%
+正在监控id为 cu1121160 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:94.10%
+正在监控id为 cu1121161 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:94.80%
+正在监控id为 cu1121162 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:95.50%
+正在监控id为 cu1121163 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:96.30%
+正在监控id为 cu1121164 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:97.00%
+正在监控id为 cu1121165 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:97.70%
+正在监控id为 cu1121167 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:98.50%
+正在监控id为 cu1121268 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:99.20%
+正在监控id为 cu1224120342 的专业名、学位类型、课程时长等字段，学校:University of Windsor 进度:100.0%
+正在监控id为 cu1118798 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:0.70%
+正在监控id为 cu1118799 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:1.50%
+正在监控id为 cu1118800 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:2.30%
+正在监控id为 cu1118801 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:3.00%
+正在监控id为 cu1118802 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:3.80%
+正在监控id为 cu1118803 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:4.60%
+正在监控id为 cu1118804 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:5.30%
+正在监控id为 cu1118805 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:6.10%
+正在监控id为 cu1118806 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:6.90%
+正在监控id为 cu1118808 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:7.60%
+正在监控id为 cu1118809 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:8.40%
+正在监控id为 cu1118810 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:9.20%
+正在监控id为 cu1118811 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:10.00%
+正在监控id为 cu1118812 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:10.70%
+正在监控id为 cu1118813 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:11.50%
+正在监控id为 cu1118814 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:12.30%
+正在监控id为 cu1118815 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:13.00%
+正在监控id为 cu1118816 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:13.80%
+正在监控id为 cu1118817 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:14.60%
+正在监控id为 cu1118818 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:15.30%
+正在监控id为 cu1118819 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:16.10%
+正在监控id为 cu1118820 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:16.90%
+正在监控id为 cu1118821 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:17.60%
+正在监控id为 cu1118822 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:18.40%
+正在监控id为 cu1118823 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:19.20%
+正在监控id为 cu1118824 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:20.00%
+正在监控id为 cu1118825 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:20.70%
+正在监控id为 cu1118826 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:21.50%
+正在监控id为 cu1118827 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:22.30%
+正在监控id为 cu1118828 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:23.00%
+正在监控id为 cu1118829 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:23.80%
+正在监控id为 cu1118830 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:24.60%
+正在监控id为 cu1118831 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:25.30%
+正在监控id为 cu1118832 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:26.10%
+正在监控id为 cu1118833 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:26.90%
+正在监控id为 cu1118834 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:27.60%
+正在监控id为 cu1118835 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:28.40%
+正在监控id为 cu1118836 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:29.20%
+正在监控id为 cu1118837 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:30.00%
+正在监控id为 cu1118838 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:30.70%
+正在监控id为 cu1118839 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:31.50%
+正在监控id为 cu1118840 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:32.30%
+正在监控id为 cu1118841 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:33.00%
+正在监控id为 cu1118842 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:33.80%
+正在监控id为 cu1118843 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:34.60%
+正在监控id为 cu1118844 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:35.30%
+正在监控id为 cu1118845 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:36.10%
+正在监控id为 cu1118846 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:36.90%
+正在监控id为 cu1118847 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:37.60%
+正在监控id为 cu1118848 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:38.40%
+正在监控id为 cu1118849 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:39.20%
+正在监控id为 cu1118850 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:40.00%
+正在监控id为 cu1118851 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:40.70%
+正在监控id为 cu1118852 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:41.50%
+正在监控id为 cu1118853 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:42.30%
+正在监控id为 cu1118854 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:43.00%
+正在监控id为 cu1118855 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:43.80%
+正在监控id为 cu1118856 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:44.60%
+正在监控id为 cu1118857 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:45.30%
+正在监控id为 cu1118858 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:46.10%
+正在监控id为 cu1118859 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:46.90%
+正在监控id为 cu1118860 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:47.60%
+正在监控id为 cu1118861 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:48.40%
+正在监控id为 cu1118862 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:49.20%
+正在监控id为 cu1118863 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:50.00%
+正在监控id为 cu1118864 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:50.70%
+正在监控id为 cu1118865 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:51.50%
+正在监控id为 cu1118866 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:52.30%
+正在监控id为 cu1118867 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:53.00%
+正在监控id为 cu1118868 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:53.80%
+正在监控id为 cu1118869 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:54.60%
+正在监控id为 cu1118870 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:55.30%
+正在监控id为 cu1118871 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:56.10%
+正在监控id为 cu1118872 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:56.90%
+正在监控id为 cu1118873 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:57.60%
+正在监控id为 cu1118874 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:58.40%
+正在监控id为 cu1118875 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:59.20%
+正在监控id为 cu1118876 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:60.00%
+正在监控id为 cu1118877 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:60.70%
+正在监控id为 cu1118878 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:61.50%
+正在监控id为 cu1118879 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:62.30%
+正在监控id为 cu1118880 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:63.00%
+正在监控id为 cu1118881 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:63.80%
+正在监控id为 cu1118882 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:64.60%
+正在监控id为 cu1118883 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:65.30%
+正在监控id为 cu1118884 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:66.10%
+正在监控id为 cu1118885 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:66.90%
+正在监控id为 cu1118886 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:67.60%
+正在监控id为 cu1118887 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:68.40%
+正在监控id为 cu1118888 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:69.20%
+正在监控id为 cu1118889 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:70.00%
+正在监控id为 cu1118890 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:70.70%
+正在监控id为 cu1118891 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:71.50%
+正在监控id为 cu1118892 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:72.30%
+正在监控id为 cu1118893 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:73.00%
+正在监控id为 cu1118894 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:73.80%
+正在监控id为 cu1118895 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:74.60%
+正在监控id为 cu1118896 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:75.30%
+正在监控id为 cu1118897 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:76.10%
+正在监控id为 cu1118898 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:76.90%
+正在监控id为 cu1118899 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:77.60%
+正在监控id为 cu1118900 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:78.40%
+正在监控id为 cu1118901 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:79.20%
+正在监控id为 cu1118902 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:80.00%
+正在监控id为 cu1118903 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:80.70%
+正在监控id为 cu1118904 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:81.50%
+正在监控id为 cu1118905 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:82.30%
+正在监控id为 cu1118906 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:83.00%
+正在监控id为 cu1118907 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:83.80%
+正在监控id为 cu1118908 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:84.60%
+正在监控id为 cu1118909 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:85.30%
+正在监控id为 cu1118910 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:86.10%
+正在监控id为 cu1118911 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:86.90%
+正在监控id为 cu1118912 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:87.60%
+正在监控id为 cu1118913 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:88.40%
+正在监控id为 cu1118914 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:89.20%
+正在监控id为 cu1118915 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:90.00%
+正在监控id为 cu1118916 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:90.70%
+正在监控id为 cu1118917 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:91.50%
+正在监控id为 cu1118919 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:92.30%
+正在监控id为 cu1118920 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:93.00%
+正在监控id为 cu1118921 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:93.80%
+正在监控id为 cu1118922 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:94.60%
+正在监控id为 cu1118923 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:95.30%
+正在监控id为 cu1118924 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:96.10%
+正在监控id为 cu1118925 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:96.90%
+正在监控id为 cu1118926 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:97.60%
+正在监控id为 cu1118927 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:98.40%
+正在监控id为 cu1118928 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:99.20%
+正在监控id为 cu1118929 的专业名、学位类型、课程时长等字段，学校:Carleton University   进度:100.0%
+正在监控id为 cu1121848 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:1.10%
+正在监控id为 cu1121849 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:2.30%
+正在监控id为 cu1121850 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:3.50%
+正在监控id为 cu1121851 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:4.70%
+正在监控id为 cu1121852 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:5.80%
+正在监控id为 cu1121853 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:7.00%
+正在监控id为 cu1121854 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:8.20%
+正在监控id为 cu1121855 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:9.40%
+正在监控id为 cu1121856 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:10.50%
+正在监控id为 cu1121857 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:11.70%
+正在监控id为 cu1121858 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:12.90%
+正在监控id为 cu1121859 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:14.10%
+正在监控id为 cu1121860 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:15.20%
+正在监控id为 cu1121861 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:16.40%
+正在监控id为 cu1121862 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:17.60%
+正在监控id为 cu1121863 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:18.80%
+正在监控id为 cu1121864 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:20.00%
+正在监控id为 cu1121865 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:21.10%
+正在监控id为 cu1121866 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:22.30%
+正在监控id为 cu1121867 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:23.50%
+正在监控id为 cu1121868 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:24.70%
+正在监控id为 cu1121869 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:25.80%
+正在监控id为 cu1121870 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:27.00%
+正在监控id为 cu1121871 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:28.20%
+正在监控id为 cu1121872 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:29.40%
+正在监控id为 cu1121873 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:30.50%
+正在监控id为 cu1121874 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:31.70%
+正在监控id为 cu1121875 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:32.90%
+正在监控id为 cu1121876 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:34.10%
+正在监控id为 cu1121877 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:35.20%
+正在监控id为 cu1121878 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:36.40%
+正在监控id为 cu1121879 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:37.60%
+正在监控id为 cu1121880 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:38.80%
+正在监控id为 cu1121881 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:40.00%
+正在监控id为 cu1121882 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:41.10%
+正在监控id为 cu1121883 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:42.30%
+正在监控id为 cu1121884 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:43.50%
+正在监控id为 cu1121885 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:44.70%
+正在监控id为 cu1121886 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:45.80%
+正在监控id为 cu1121887 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:47.00%
+正在监控id为 cu1121888 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:48.20%
+正在监控id为 cu1121889 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:49.40%
+正在监控id为 cu1121890 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:50.50%
+正在监控id为 cu1121891 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:51.70%
+正在监控id为 cu1121892 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:52.90%
+正在监控id为 cu1121893 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:54.10%
+正在监控id为 cu1121894 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:55.20%
+正在监控id为 cu1121895 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:56.40%
+正在监控id为 cu1121896 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:57.60%
+正在监控id为 cu1121897 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:58.80%
+正在监控id为 cu1121898 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:60.00%
+正在监控id为 cu1121899 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:61.10%
+正在监控id为 cu1121900 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:62.30%
+正在监控id为 cu1121901 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:63.50%
+正在监控id为 cu1121902 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:64.70%
+正在监控id为 cu1121903 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:65.80%
+正在监控id为 cu1121904 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:67.00%
+正在监控id为 cu1121905 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:68.20%
+正在监控id为 cu1121906 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:69.40%
+正在监控id为 cu1121907 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:70.50%
+正在监控id为 cu1121908 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:71.70%
+正在监控id为 cu1121909 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:72.90%
+正在监控id为 cu1121910 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:74.10%
+正在监控id为 cu1121911 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:75.20%
+正在监控id为 cu1121912 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:76.40%
+正在监控id为 cu1121913 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:77.60%
+正在监控id为 cu1121914 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:78.80%
+正在监控id为 cu1121915 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:80.00%
+正在监控id为 cu1121916 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:81.10%
+正在监控id为 cu1121917 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:82.30%
+正在监控id为 cu1121918 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:83.50%
+正在监控id为 cu1121919 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:84.70%
+正在监控id为 cu1121920 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:85.80%
+正在监控id为 cu1121921 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:87.00%
+正在监控id为 cu1121922 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:88.20%
+正在监控id为 cu1121923 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:89.40%
+正在监控id为 cu1121924 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:90.50%
+正在监控id为 cu1121925 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:91.70%
+正在监控id为 cu1121926 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:92.90%
+正在监控id为 cu1121927 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:94.10%
+正在监控id为 cu1121928 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:95.20%
+正在监控id为 cu1121929 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:96.40%
+正在监控id为 cu1121930 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:97.60%
+正在监控id为 cu1122130 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:98.80%
+正在监控id为 cu1122131 的专业名、学位类型、课程时长等字段，学校:University of Guelph 进度:100.0%
+正在监控id为 cu13535 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:0.90%
+正在监控id为 cu13536 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:1.90%
+正在监控id为 cu13537 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:2.90%
+正在监控id为 cu13538 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:3.90%
+正在监控id为 cu13539 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:4.90%
+正在监控id为 cu13540 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:5.80%
+正在监控id为 cu13541 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:6.80%
+正在监控id为 cu13542 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:7.80%
+正在监控id为 cu13543 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:8.80%
+正在监控id为 cu13544 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:9.80%
+正在监控id为 cu13545 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:10.70%
+正在监控id为 cu13546 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:11.70%
+正在监控id为 cu13547 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:12.70%
+正在监控id为 cu13548 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:13.70%
+正在监控id为 cu13549 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:14.70%
+正在监控id为 cu13550 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:15.60%
+正在监控id为 cu13551 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:16.60%
+正在监控id为 cu13552 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:17.60%
+正在监控id为 cu13554 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:18.60%
+正在监控id为 cu13555 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:19.60%
+正在监控id为 cu13556 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:20.50%
+正在监控id为 cu13557 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:21.50%
+正在监控id为 cu13558 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:22.50%
+正在监控id为 cu13559 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:23.50%
+正在监控id为 cu13560 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:24.50%
+正在监控id为 cu13561 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:25.40%
+正在监控id为 cu13562 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:26.40%
+正在监控id为 cu13563 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:27.40%
+正在监控id为 cu13564 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:28.40%
+正在监控id为 cu13565 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:29.40%
+正在监控id为 cu13566 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:30.30%
+正在监控id为 cu13568 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:31.30%
+正在监控id为 cu13569 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:32.30%
+正在监控id为 cu13570 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:33.30%
+正在监控id为 cu13571 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:34.30%
+正在监控id为 cu13572 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:35.20%
+正在监控id为 cu13573 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:36.20%
+正在监控id为 cu13575 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:37.20%
+正在监控id为 cu13576 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:38.20%
+正在监控id为 cu13577 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:39.20%
+正在监控id为 cu13578 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:40.10%
+正在监控id为 cu13579 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:41.10%
+正在监控id为 cu13580 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:42.10%
+正在监控id为 cu13581 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:43.10%
+正在监控id为 cu13582 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:44.10%
+正在监控id为 cu13583 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:45.00%
+正在监控id为 cu13584 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:46.00%
+正在监控id为 cu13585 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:47.00%
+正在监控id为 cu13586 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:48.00%
+正在监控id为 cu13587 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:49.00%
+正在监控id为 cu13588 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:50.00%
+正在监控id为 cu13589 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:50.90%
+正在监控id为 cu13590 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:51.90%
+正在监控id为 cu13591 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:52.90%
+正在监控id为 cu13592 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:53.90%
+正在监控id为 cu13593 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:54.90%
+正在监控id为 cu13594 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:55.80%
+正在监控id为 cu13595 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:56.80%
+正在监控id为 cu13596 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:57.80%
+正在监控id为 cu13597 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:58.80%
+正在监控id为 cu13598 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:59.80%
+正在监控id为 cu13599 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:60.70%
+正在监控id为 cu13600 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:61.70%
+正在监控id为 cu13601 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:62.70%
+正在监控id为 cu13602 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:63.70%
+正在监控id为 cu13603 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:64.70%
+正在监控id为 cu13604 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:65.60%
+正在监控id为 cu13605 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:66.60%
+正在监控id为 cu13606 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:67.60%
+正在监控id为 cu13607 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:68.60%
+正在监控id为 cu13608 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:69.60%
+正在监控id为 cu13609 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:70.50%
+正在监控id为 cu13610 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:71.50%
+正在监控id为 cu13611 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:72.50%
+正在监控id为 cu13612 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:73.50%
+正在监控id为 cu13613 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:74.50%
+正在监控id为 cu13614 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:75.40%
+正在监控id为 cu13616 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:76.40%
+正在监控id为 cu13617 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:77.40%
+正在监控id为 cu13618 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:78.40%
+正在监控id为 cu13619 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:79.40%
+正在监控id为 cu13620 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:80.30%
+正在监控id为 cu13622 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:81.30%
+正在监控id为 cu13623 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:82.30%
+正在监控id为 cu13624 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:83.30%
+正在监控id为 cu13625 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:84.30%
+正在监控id为 cu13626 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:85.20%
+正在监控id为 cu13627 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:86.20%
+正在监控id为 cu13631 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:87.20%
+正在监控id为 cu13632 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:88.20%
+正在监控id为 cu13633 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:89.20%
+正在监控id为 cu13634 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:90.10%
+正在监控id为 cu13635 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:91.10%
+正在监控id为 cu13636 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:92.10%
+正在监控id为 cu13637 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:93.10%
+正在监控id为 cu13638 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:94.10%
+正在监控id为 cu13639 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:95.00%
+正在监控id为 cu1356001 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:96.00%
+正在监控id为 cu13573001 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:97.00%
+正在监控id为 cu13594001 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:98.00%
+正在监控id为 cu13639001 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:99.00%
+正在监控id为 cu1224120343 的专业名、学位类型、课程时长等字段，学校:University of Waterloo  进度:100.0%
+正在监控id为 cu22762 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:0.30%
+正在监控id为 cu22763 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:0.70%
+正在监控id为 cu22765 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:1.10%
+正在监控id为 cu22766 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:1.40%
+正在监控id为 cu22767 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:1.80%
+正在监控id为 cu22768 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:2.20%
+正在监控id为 cu22769 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:2.50%
+正在监控id为 cu22770 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:2.90%
+正在监控id为 cu22772 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:3.30%
+正在监控id为 cu22773 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:3.60%
+正在监控id为 cu22774 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:4.00%
+正在监控id为 cu22775 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:4.40%
+正在监控id为 cu22776 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:4.70%
+正在监控id为 cu22777 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:5.10%
+正在监控id为 cu22778 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:5.50%
+正在监控id为 cu22779 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:5.80%
+正在监控id为 cu22780 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:6.20%
+正在监控id为 cu22781 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:6.60%
+正在监控id为 cu22782 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:6.90%
+正在监控id为 cu22783 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:7.30%
+正在监控id为 cu22784 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:7.70%
+正在监控id为 cu22786 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:8.00%
+正在监控id为 cu22787 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:8.40%
+正在监控id为 cu22789 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:8.80%
+正在监控id为 cu22790 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:9.10%
+正在监控id为 cu22791 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:9.50%
+正在监控id为 cu22792 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:9.90%
+正在监控id为 cu22793 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:10.20%
+正在监控id为 cu22794 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:10.60%
+正在监控id为 cu22795 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:11.00%
+正在监控id为 cu22796 的专业名、学位类型、课程时长等字段，学校:University of Regina  进度:11.30%

@@ -1,0 +1,2 @@
+from middleware import *
+makeThreading(school='Glasgow Caledonian University',urllist=getUrl(208),xpathDict={'programme':'//*[@id="MainMiddleWrap"]/article/section/header/h2/div/span[2]','fee':'//*[@id="Feesandfunding"]/div/div/div'})
